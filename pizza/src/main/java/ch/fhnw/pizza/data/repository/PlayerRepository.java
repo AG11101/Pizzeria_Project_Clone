@@ -5,6 +5,6 @@ import org.springframework.stereotype.Repository;
 import ch.fhnw.pizza.data.domain.Player;
 
 @Repository
-public interface PlayerRepository extends JpaRepository<Player, String> {
+public interface PlayerRepository extends JpaRepository<Player, Long> { // Use Long as the primary key type
     Player findByName(String name);
 }

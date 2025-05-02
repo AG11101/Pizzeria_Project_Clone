@@ -1,9 +1,14 @@
 package ch.fhnw.pizza.data.domain;
 
+import jakarta.persistence.*;
 import java.util.List;
 
+@Entity
 public class Team {
-    private String teamName;
+
+    @Id
+    private String teamName; // Primary key
+
     private int totalPoints;
     private int gamesPlayed;
     private int wins;
@@ -12,8 +17,13 @@ public class Team {
     private int lossesAfterExtraTime;
     private int goalsScored;
     private int goalsConceded;
-    private List<Player> players; // Association with Player
-    private League league; // Association with League
+
+    @OneToMany(mappedBy = "team", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Player> players; // A team has many players
+
+    @ManyToOne
+    @JoinColumn(name = "league_id") // Foreign key column in the Team table
+    private League league; // A team belongs to one league
 
     // Getters and Setters
     public String getTeamName() {
@@ -104,3 +114,4 @@ public class Team {
         this.league = league;
     }
 }
+

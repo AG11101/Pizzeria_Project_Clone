@@ -1,12 +1,35 @@
 package ch.fhnw.pizza.data.domain;
 
+import jakarta.persistence.*;
+
+@Entity
 public class Ranking {
-    private int rank; // The rank position
-    private Team team; // Associated team
-    private League league; // Associated league
-    private int points; // Points of the team in the ranking
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id; // Internal identifier
+
+    private int rank;
+
+    @ManyToOne
+    @JoinColumn(name = "team_id") // Foreign key column in the Ranking table
+    private Team team;
+
+    @ManyToOne
+    @JoinColumn(name = "league_id") // Foreign key column in the Ranking table
+    private League league;
+
+    private int points;
 
     // Getters and Setters
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
     public int getRank() {
         return rank;
     }
@@ -39,3 +62,4 @@ public class Ranking {
         this.points = points;
     }
 }
+

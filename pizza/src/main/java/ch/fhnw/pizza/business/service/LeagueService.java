@@ -1,4 +1,4 @@
-package ch.fhnw.pizza.business.service;
+package ch.fhnw.pizza.business.service;//
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -29,8 +29,8 @@ public class LeagueService {
 
     public League updateLeague(String id, League league) {
         League existingLeague = getLeagueById(id);
-        if (league.getLeagueName() != null) {
-            existingLeague.setLeagueName(league.getLeagueName());
+        if (league.getName() != null) {
+            existingLeague.setName(league.getName());
         }
         // Update other fields as needed
         return leagueRepository.save(existingLeague);
