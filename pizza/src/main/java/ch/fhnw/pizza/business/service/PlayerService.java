@@ -18,7 +18,7 @@ public class PlayerService {
         return playerRepository.findAll();
     }
 
-    public Player getPlayerById(String id) {
+    public Player getPlayerById(Long id) { // Changed String to Long
         return playerRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("Player with id " + id + " not found"));
     }
@@ -27,7 +27,7 @@ public class PlayerService {
         return playerRepository.save(player);
     }
 
-    public Player updatePlayer(String id, Player player) {
+    public Player updatePlayer(Long id, Player player) { // Changed String to Long
         Player existingPlayer = getPlayerById(id);
         if (player.getName() != null) {
             existingPlayer.setName(player.getName());
@@ -35,11 +35,19 @@ public class PlayerService {
         if (player.getLastName() != null) {
             existingPlayer.setLastName(player.getLastName());
         }
-        // Update other fields as needed
+        if (player.getGoals() != 0) {
+            existingPlayer.setGoals(player.getGoals());
+        }
+        if (player.getAssists() != 0) {
+            existingPlayer.setAssists(player.getAssists());
+        }
+        if (player.getTeam() != null) {
+            existingPlayer.setTeam(player.getTeam());
+        }
         return playerRepository.save(existingPlayer);
     }
 
-    public void deletePlayer(String id) {
+    public void deletePlayer(Long id) { // Changed String to Long
         if (playerRepository.existsById(id)) {
             playerRepository.deleteById(id);
         } else {
