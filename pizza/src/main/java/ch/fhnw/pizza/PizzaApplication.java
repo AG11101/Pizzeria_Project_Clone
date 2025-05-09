@@ -1,47 +1,34 @@
 package ch.fhnw.pizza;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import ch.fhnw.pizza.business.service.LeagueService;
 import ch.fhnw.pizza.business.service.PlayerService;
-// import ch.fhnw.pizza.business.service.MenuService;
-// import ch.fhnw.pizza.data.domain.Pizza;
+import ch.fhnw.pizza.business.service.RankingService;
+import ch.fhnw.pizza.business.service.TeamService;
 import io.swagger.v3.oas.annotations.Hidden;
-import jakarta.annotation.PostConstruct;
 
 @SpringBootApplication
 @RestController
 @Hidden // Hide this controller from the Swagger UI
 public class PizzaApplication {
 
-	@Autowired
-	private PlayerService menuService;//service not used anymore
+    // Autowire other services here
+    private final LeagueService leagueService;
+    private final PlayerService playerService;
+    private final RankingService rankingService;
+    private final TeamService teamService;
 
-	/*Load 4 other services here: League service, Player service, Ranking,... */
+    public PizzaApplication(LeagueService leagueService, PlayerService playerService, RankingService rankingService, TeamService teamService) {
+        this.leagueService = leagueService;
+        this.playerService = playerService;
+        this.rankingService = rankingService;
+        this.teamService = teamService;
+    }
 
-	public static void main(String[] args) {
-		SpringApplication.run(PizzaApplication.class, args);
-	}
-	
-
-	// Use this method to initialize placeholder data without using Postman
-	// If you are persisting data in a file (see application.properties), initializing data that already exists will cause an error during starting the application
-	// To resolve the error, delete the file and restart the application
-	// @PostConstruct
-	// private void initPlaceholderData() throws Exception {
-	// 	Pizza pizza = new Pizza();
-	// 	pizza.setPizzaName("Margherita");
-	// 	pizza.setPizzaToppings("Tomato sauce, mozzarella, basil");
-	// 	menuService.addPizza(pizza);
-
-	// 	pizza = new Pizza();
-	// 	pizza.setPizzaName("Funghi");
-	// 	pizza.setPizzaToppings("Tomato sauce, mozzarella, mushrooms");
-	// 	menuService.addPizza(pizza);
-		
-	// }
-
+    public static void main(String[] args) {
+        SpringApplication.run(PizzaApplication.class, args);
+    }
 }

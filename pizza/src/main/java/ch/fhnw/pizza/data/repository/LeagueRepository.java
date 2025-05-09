@@ -6,5 +6,5 @@ import ch.fhnw.pizza.data.domain.League;
 
 @Repository
 public interface LeagueRepository extends JpaRepository<League, String> {
-    League findByLeagueName(String leagueName);
+    League findByName(String name); // Updated method name to match the 'name' property
 }

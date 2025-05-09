@@ -9,7 +9,7 @@ public class League {
     @Id
     private String leagueId; // Primary key
 
-    private String name;
+    private String name; // This is the property being queried
 
     @OneToMany(mappedBy = "league", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Team> teams; // A league has many teams
