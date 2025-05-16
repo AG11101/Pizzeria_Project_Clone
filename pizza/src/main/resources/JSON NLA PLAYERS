@@ -1,0 +1,3232 @@
+[
+  {
+    "PlayerID": "NLA - 270",
+    "Name": "Santtu Vuoristo",
+    "Team": "WASA St. Gallen",
+    "Games Played": 20,
+    "Goals": 9,
+    "Assists": 9,
+    "Points": 18,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_013171453c244403a87c0859a086bacf"
+  },
+  {
+    "PlayerID": "NLA - 195",
+    "Name": "Maxim Frei",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_01cc690c62894a048499849dd6e1bf23"
+  },
+  {
+    "PlayerID": "NLA - 256",
+    "Name": "Raul Willfratt",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 9,
+    "Assists": 9,
+    "Points": 18,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_01d8a5ff616c4f208417561e1eeb8b0d"
+  },
+  {
+    "PlayerID": "NLA - 119",
+    "Name": "Jonas Tschan",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 2,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_032fd5ed9d4a43c7bd8d7549d26a5e71"
+  },
+  {
+    "PlayerID": "NLA - 314",
+    "Name": "Yanick Altwegg",
+    "Team": "Floorball Thurgau",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_03b2f912641f4abd913bd5c46bddce59"
+  },
+  {
+    "PlayerID": "NLA - 74",
+    "Name": "Florian Wenk",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 20,
+    "Goals": 2,
+    "Assists": 4,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_04e8490c431b4fab9c7f004142582078"
+  },
+  {
+    "PlayerID": "NLA - 208",
+    "Name": "Moritz Mock",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 21,
+    "Goals": 9,
+    "Assists": 5,
+    "Points": 14,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_060c1a90c5a94fbb89d6a853be627c5e"
+  },
+  {
+    "PlayerID": "NLA - 72",
+    "Name": "Filip Karlsson",
+    "Team": "UHC Uster",
+    "Games Played": 19,
+    "Goals": 7,
+    "Assists": 2,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_06f874cd27bc47cd9ff22b6ffa4f7c3e"
+  },
+  {
+    "PlayerID": "NLA - 176",
+    "Name": "Markus Sipronen",
+    "Team": "Floorball Thurgau",
+    "Games Played": 21,
+    "Goals": 16,
+    "Assists": 13,
+    "Points": 29,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_0778ee826aef42e4b578f49d1b86ca4a"
+  },
+  {
+    "PlayerID": "NLA - 183",
+    "Name": "Mateo Fiechter",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 20,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_080f03e27af744b38da2281012df0703"
+  },
+  {
+    "PlayerID": "NLA - 271",
+    "Name": "Sebastian Kuhn",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_0881867e547c411788ed9add7d8fa76f"
+  },
+  {
+    "PlayerID": "NLA - 312",
+    "Name": "Valentin Schubiger",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 13,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_0a3f1913b8e948da9264c09254190f8f"
+  },
+  {
+    "PlayerID": "NLA - 125",
+    "Name": "Kay Bier",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 16,
+    "Goals": 3,
+    "Assists": 3,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_0b191e29e3014a33a5c3185b6f11ce1a"
+  },
+  {
+    "PlayerID": "NLA - 21",
+    "Name": "Andrin Jäggi",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 16,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_0bf892d4027044eeb567bc5dc3e3d408"
+  },
+  {
+    "PlayerID": "NLA - 224",
+    "Name": "Nils Boman",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 7,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_0e28e292ff164d70af6096f8eae189d4"
+  },
+  {
+    "PlayerID": "NLA - 35",
+    "Name": "Christoph Fässler",
+    "Team": "WASA St. Gallen",
+    "Games Played": 5,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_0f7a972666de458ab9f57bf84f2b5367"
+  },
+  {
+    "PlayerID": "NLA - 113",
+    "Name": "Joél Stocker",
+    "Team": "Zug United",
+    "Games Played": 17,
+    "Goals": 2,
+    "Assists": 0,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_10a86ad5f0e8411d954972994444cea5"
+  },
+  {
+    "PlayerID": "NLA - 54",
+    "Name": "David Hermle",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 21,
+    "Goals": 6,
+    "Assists": 8,
+    "Points": 14,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_111b224dfb85436cb20b9bbefc8c7dfc"
+  },
+  {
+    "PlayerID": "NLA - 213",
+    "Name": "Nico Branger",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 3,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_112851414e5846feb4d82bdb274fa5fb"
+  },
+  {
+    "PlayerID": "NLA - 179",
+    "Name": "Martin Mosimann",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 2,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_118514419df64c7d8d0f59c9736d64f9"
+  },
+  {
+    "PlayerID": "NLA - 180",
+    "Name": "Martin Östholm",
+    "Team": "Chur Unihockey",
+    "Games Played": 18,
+    "Goals": 12,
+    "Assists": 21,
+    "Points": 33,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_12b79da22fd84711b28b934ccd83e70e"
+  },
+  {
+    "PlayerID": "NLA - 104",
+    "Name": "Jascha Haldemann",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 1,
+    "Assists": 5,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_14bb04fdc94047b6b541843b042f0a4a"
+  },
+  {
+    "PlayerID": "NLA - 23",
+    "Name": "Andrin Siegenthaler",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_156cf79c383942708f5c494b7827bdac"
+  },
+  {
+    "PlayerID": "NLA - 147",
+    "Name": "Loic Andrey",
+    "Team": "WASA St. Gallen",
+    "Games Played": 11,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_159a207facb242a6b1905693f95d852a"
+  },
+  {
+    "PlayerID": "NLA - 117",
+    "Name": "Jonas Schlup",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 1,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_15fc4cc1261a4e02af3e431d85da93f7"
+  },
+  {
+    "PlayerID": "NLA - 296",
+    "Name": "Timon Anderegg",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 7,
+    "Assists": 12,
+    "Points": 19,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_161a39c182dc4398a40922fb0fa4b8bf"
+  },
+  {
+    "PlayerID": "NLA - 209",
+    "Name": "Nadir Monighetti",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 13,
+    "Assists": 13,
+    "Points": 26,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_16cf49c5b181430ab0869515b7c6f132"
+  },
+  {
+    "PlayerID": "NLA - 102",
+    "Name": "Jannis Rast",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 5,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1826a90e7d004459aea96ffd2d6a970f"
+  },
+  {
+    "PlayerID": "NLA - 316",
+    "Name": "Yanik Castelberg",
+    "Team": "Chur Unihockey",
+    "Games Played": 20,
+    "Goals": 7,
+    "Assists": 8,
+    "Points": 15,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_182d6c3d6a3a4d85a5d8d4241525e53e"
+  },
+  {
+    "PlayerID": "NLA - 15",
+    "Name": "Andri Bass",
+    "Team": "Chur Unihockey",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_18a756f2d3804d2a84daa288bc3cd7cf"
+  },
+  {
+    "PlayerID": "NLA - 151",
+    "Name": "Loris Murer",
+    "Team": "UHC Uster",
+    "Games Played": 20,
+    "Goals": 4,
+    "Assists": 2,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_195d95f3797345dc873488c08172918a"
+  },
+  {
+    "PlayerID": "NLA - 294",
+    "Name": "Tim Nussle",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 20,
+    "Goals": 2,
+    "Assists": 2,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_19eff88472674282ad4b2e481a982879"
+  },
+  {
+    "PlayerID": "NLA - 129",
+    "Name": "Kimo Oesch",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 6,
+    "Assists": 4,
+    "Points": 10,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1b1f0b72b6b748e49b8174e75e43c9f9"
+  },
+  {
+    "PlayerID": "NLA - 255",
+    "Name": "Rasmus Kainulainen",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 21,
+    "Goals": 22,
+    "Assists": 19,
+    "Points": 41,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1b753904b8894c31a33ce203e9384ffc"
+  },
+  {
+    "PlayerID": "NLA - 276",
+    "Name": "Seya Schwarz",
+    "Team": "Tigers Langnau",
+    "Games Played": 21,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1bc97ceb2f7d4ca39241d0cf40823bec"
+  },
+  {
+    "PlayerID": "NLA - 212",
+    "Name": "Nico Bötschi",
+    "Team": "Floorball Thurgau",
+    "Games Played": 9,
+    "Goals": 2,
+    "Assists": 0,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1bfbca81097b46ba949c1ab8bd503f52"
+  },
+  {
+    "PlayerID": "NLA - 284",
+    "Name": "Ted Nivestam",
+    "Team": "UHC Uster",
+    "Games Played": 21,
+    "Goals": 12,
+    "Assists": 7,
+    "Points": 19,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1c28d69a888540bbbc645685917e28ad"
+  },
+  {
+    "PlayerID": "NLA - 148",
+    "Name": "Lorenzo Compagnoni",
+    "Team": "Chur Unihockey",
+    "Games Played": 17,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1c996455c9354c64989a5e3c113b51ad"
+  },
+  {
+    "PlayerID": "NLA - 10",
+    "Name": "Alexander Rinefalk",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 1,
+    "Assists": 5,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1dd408e1cfb04fc59e0daa5039ca5a43"
+  },
+  {
+    "PlayerID": "NLA - 277",
+    "Name": "Silas Fitzi",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 7,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1dfb8ec970d04c4db138516f4ec085a6"
+  },
+  {
+    "PlayerID": "NLA - 11",
+    "Name": "Alexander Tschirky",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1ea1f175f36e40f98313f6e046a6d03b"
+  },
+  {
+    "PlayerID": "NLA - 38",
+    "Name": "Claudio Mutter",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 12,
+    "Assists": 11,
+    "Points": 23,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1ea8a7ea2dad480598313bbf1dca1060"
+  },
+  {
+    "PlayerID": "NLA - 101",
+    "Name": "Janis Siegenthaler",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 2,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1f45568797144950800a725ef551165d"
+  },
+  {
+    "PlayerID": "NLA - 214",
+    "Name": "Nico Moser",
+    "Team": "WASA St. Gallen",
+    "Games Played": 10,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1f7ad2e1ad9c46ac9ed4483cc3b9a58c"
+  },
+  {
+    "PlayerID": "NLA - 82",
+    "Name": "Gianluca Persici",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 22,
+    "Goals": 20,
+    "Assists": 22,
+    "Points": 42,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_1feaa4beb91145dea9c6119c6a3898c2"
+  },
+  {
+    "PlayerID": "NLA - 73",
+    "Name": "Flavio Graf",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 2,
+    "Assists": 5,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2047bc53245c4c319e64e5647be39512"
+  },
+  {
+    "PlayerID": "NLA - 154",
+    "Name": "Luca Holenstein",
+    "Team": "WASA St. Gallen",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 4,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2566f896d05c4acdb4d2fe3abfc63966"
+  },
+  {
+    "PlayerID": "NLA - 220",
+    "Name": "Nicola Hocevar",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 16,
+    "Goals": 3,
+    "Assists": 2,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_262d89e244cd4e73adea8ec22ef2a3b0"
+  },
+  {
+    "PlayerID": "NLA - 203",
+    "Name": "Mike Gerber",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 21,
+    "Goals": 9,
+    "Assists": 9,
+    "Points": 18,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_26483bd5edf2402db825e74352db235c"
+  },
+  {
+    "PlayerID": "NLA - 292",
+    "Name": "Tim Kramer",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 20,
+    "Goals": 0,
+    "Assists": 2,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_27916b8a24914ca98343148166a4ffdc"
+  },
+  {
+    "PlayerID": "NLA - 9",
+    "Name": "Alexander Bühler",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 18,
+    "Goals": 3,
+    "Assists": 0,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2864d6a7e224493385f2d01917cb9127"
+  },
+  {
+    "PlayerID": "NLA - 297",
+    "Name": "Timon Gönthard",
+    "Team": "UHC Uster",
+    "Games Played": 19,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2b8e3ac735e540f8bd1d4b772b8b2f1a"
+  },
+  {
+    "PlayerID": "NLA - 225",
+    "Name": "Nils Conrad",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 11,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2bb34f03a6ef483fa93dfb7dad944d44"
+  },
+  {
+    "PlayerID": "NLA - 70",
+    "Name": "Fadri Burkhart",
+    "Team": "UHC Uster",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2ca470d9857747b4beb5c541b57548af"
+  },
+  {
+    "PlayerID": "NLA - 142",
+    "Name": "Linus Arnold",
+    "Team": "Zug United",
+    "Games Played": 22,
+    "Goals": 14,
+    "Assists": 9,
+    "Points": 23,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2d4732e19238441893a77762a727fa6a"
+  },
+  {
+    "PlayerID": "NLA - 221",
+    "Name": "Nicolas Schüpbach",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2da3c1e721f340809a5e3acaba825c7a"
+  },
+  {
+    "PlayerID": "NLA - 242",
+    "Name": "Pascal Schmuki",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 10,
+    "Assists": 15,
+    "Points": 25,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2e38b15b4b69403b9f8f5689e2c8d81f"
+  },
+  {
+    "PlayerID": "NLA - 218",
+    "Name": "Nicola Bischofberger",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 15,
+    "Goals": 0,
+    "Assists": 7,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2ea49155443c46c48275d379ce21e923"
+  },
+  {
+    "PlayerID": "NLA - 96",
+    "Name": "Janis Graf",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 12,
+    "Assists": 8,
+    "Points": 20,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_2fd8086ec3074f3cb0de64bcb1bd4ff5"
+  },
+  {
+    "PlayerID": "NLA - 164",
+    "Name": "Manuel Maurer",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 19,
+    "Assists": 19,
+    "Points": 38,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_305d3214920f4e1a84676ebf26d52684"
+  },
+  {
+    "PlayerID": "NLA - 122",
+    "Name": "Joshua Villiger",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3117310da5b54e9bab9fdc2b6ae4114e"
+  },
+  {
+    "PlayerID": "NLA - 165",
+    "Name": "Manuel Staub",
+    "Team": "Zug United",
+    "Games Played": 9,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_315b8089fa5646d89fe52b75dba23bf5"
+  },
+  {
+    "PlayerID": "NLA - 20",
+    "Name": "Andrin Hollenstein",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 22,
+    "Goals": 6,
+    "Assists": 8,
+    "Points": 14,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_31e3b4f02356435fb51568d2e2f5c74a"
+  },
+  {
+    "PlayerID": "NLA - 171",
+    "Name": "Marco Louis",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 22,
+    "Goals": 26,
+    "Assists": 4,
+    "Points": 30,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3203763b37ba4ff692e57fea0584c790"
+  },
+  {
+    "PlayerID": "NLA - 5",
+    "Name": "Alan Strässle",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 15,
+    "Goals": 3,
+    "Assists": 1,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3272d6e8008f40de9a1facb45e437dba"
+  },
+  {
+    "PlayerID": "NLA - 261",
+    "Name": "Rohit Chiplunkar",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 2,
+    "Assists": 1,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3508555cab21424da87602ecfb1f8d3c"
+  },
+  {
+    "PlayerID": "NLA - 65",
+    "Name": "Erin Degen",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 20,
+    "Goals": 1,
+    "Assists": 2,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3636d44defb94accb0cf0ab6f42297b8"
+  },
+  {
+    "PlayerID": "NLA - 247",
+    "Name": "Peter Kotilainen",
+    "Team": "Floorball Thurgau",
+    "Games Played": 17,
+    "Goals": 14,
+    "Assists": 24,
+    "Points": 38,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3636d62662654f9a94645e582edab47a"
+  },
+  {
+    "PlayerID": "NLA - 27",
+    "Name": "Axel Backström",
+    "Team": "Chur Unihockey",
+    "Games Played": 11,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_37ec72f892224c1ea30481ca5db7cadf"
+  },
+  {
+    "PlayerID": "NLA - 163",
+    "Name": "Manuel Matt",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 8,
+    "Assists": 1,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_39b28be84d4b40b9a818c8eaf86be8f9"
+  },
+  {
+    "PlayerID": "NLA - 132",
+    "Name": "Lars Koch",
+    "Team": "Chur Unihockey",
+    "Games Played": 1,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_39e0e2d9de9d4a3f99ce3e420cbe288e"
+  },
+  {
+    "PlayerID": "NLA - 109",
+    "Name": "Joel Bachmann",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 5,
+    "Assists": 1,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3a591e5e05034d0aa2f5b989341c8e6e"
+  },
+  {
+    "PlayerID": "NLA - 57",
+    "Name": "Dominik Meier",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 4,
+    "Assists": 1,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3b45ea860be54e6692b5c003b2e3fedf"
+  },
+  {
+    "PlayerID": "NLA - 149",
+    "Name": "Loris Hofmann",
+    "Team": "Zug United",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3be828b2cf4f49208cf54d76cdc18d82"
+  },
+  {
+    "PlayerID": "NLA - 231",
+    "Name": "Noah Schnell",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3cacccb548e941669f313c82b729cd8c"
+  },
+  {
+    "PlayerID": "NLA - 169",
+    "Name": "Marcel Stucki",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 3,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3d0b83891fb34625909c6392e3e857d0"
+  },
+  {
+    "PlayerID": "NLA - 232",
+    "Name": "Noah Siegenthaler",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 18,
+    "Goals": 4,
+    "Assists": 8,
+    "Points": 12,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3dd860d1ba8e47848c1a73c15c404808"
+  },
+  {
+    "PlayerID": "NLA - 196",
+    "Name": "Merlin Picariello",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3e51ada35d5c4383b0fed4d35bc242e6"
+  },
+  {
+    "PlayerID": "NLA - 262",
+    "Name": "Roman Beck",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3e957632397d4e799b91031a29158b66"
+  },
+  {
+    "PlayerID": "NLA - 206",
+    "Name": "Miko Kailiala",
+    "Team": "Zug United",
+    "Games Played": 21,
+    "Goals": 29,
+    "Assists": 16,
+    "Points": 45,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_3ef1f2ad3f1f443f80fb5340f9fb8c06"
+  },
+  {
+    "PlayerID": "NLA - 289",
+    "Name": "Tim Aeschimann",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 5,
+    "Assists": 3,
+    "Points": 8,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_41547f7cda854d80941b15fe3a683a88"
+  },
+  {
+    "PlayerID": "NLA - 137",
+    "Name": "Levin Conrad",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 18,
+    "Assists": 7,
+    "Points": 25,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_415ef27890cf46cd976f555134fadeb9"
+  },
+  {
+    "PlayerID": "NLA - 158",
+    "Name": "Lucien Fasel",
+    "Team": "Tigers Langnau",
+    "Games Played": 1,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_418fc23d17da4423aceb135829fbf721"
+  },
+  {
+    "PlayerID": "NLA - 282",
+    "Name": "Simon Wahl",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 21,
+    "Goals": 2,
+    "Assists": 1,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_419f32f50e56404d9140c0e2b61090af"
+  },
+  {
+    "PlayerID": "NLA - 121",
+    "Name": "Joshua Seya Schnell",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 17,
+    "Goals": 6,
+    "Assists": 6,
+    "Points": 12,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_421501431d2346fc8e83ed3c6f601ecb"
+  },
+  {
+    "PlayerID": "NLA - 207",
+    "Name": "Miska Mäkinen",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 21,
+    "Goals": 10,
+    "Assists": 16,
+    "Points": 26,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_422a27fb036846019c4486dd340fa0ac"
+  },
+  {
+    "PlayerID": "NLA - 80",
+    "Name": "Gian-Andrin Meiler",
+    "Team": "Chur Unihockey",
+    "Games Played": 7,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_43d03938ac4b492fbe7b59cda1b695a3"
+  },
+  {
+    "PlayerID": "NLA - 112",
+    "Name": "Joel Söderberg",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 7,
+    "Assists": 4,
+    "Points": 11,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_447d937b551a4dd881670d637f18d56d"
+  },
+  {
+    "PlayerID": "NLA - 159",
+    "Name": "Lukas Minger",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 4,
+    "Assists": 6,
+    "Points": 10,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_448bfbe9ff2c4b3cb3cbdb0b95ca7dd4"
+  },
+  {
+    "PlayerID": "NLA - 144",
+    "Name": "Linus Felix",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_4711fe00dbc744a5b52081a07e797615"
+  },
+  {
+    "PlayerID": "NLA - 194",
+    "Name": "Maurus Christen",
+    "Team": "Zug United",
+    "Games Played": 12,
+    "Goals": 1,
+    "Assists": 4,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_4716f4f550a3407b9a06c473976d6f53"
+  },
+  {
+    "PlayerID": "NLA - 152",
+    "Name": "Luca Castelberg",
+    "Team": "Chur Unihockey",
+    "Games Played": 20,
+    "Goals": 5,
+    "Assists": 1,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_486672e43d3140bd9ba0f7d7981bff16"
+  },
+  {
+    "PlayerID": "NLA - 14",
+    "Name": "Amos Jäppinen",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 3,
+    "Assists": 2,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_488264a6f6a5407885bd4019b1de4529"
+  },
+  {
+    "PlayerID": "NLA - 85",
+    "Name": "Isaac Andersson",
+    "Team": "UHC Uster",
+    "Games Played": 1,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_498320fd5485465cb1404499bd85dc8c"
+  },
+  {
+    "PlayerID": "NLA - 211",
+    "Name": "Nick Pfister",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 11,
+    "Assists": 10,
+    "Points": 21,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_49f0ea0becc84491b303b0497077f626"
+  },
+  {
+    "PlayerID": "NLA - 293",
+    "Name": "Tim Mock",
+    "Team": "Zug United",
+    "Games Played": 22,
+    "Goals": 5,
+    "Assists": 7,
+    "Points": 12,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_4b0a899655164c8f8efbdd5f09f18800"
+  },
+  {
+    "PlayerID": "NLA - 3",
+    "Name": "Adrian Menetrey",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_4c0b9a4bcd734e12992887edf387073f"
+  },
+  {
+    "PlayerID": "NLA - 311",
+    "Name": "Tuukka Kivioja",
+    "Team": "WASA St. Gallen",
+    "Games Played": 8,
+    "Goals": 6,
+    "Assists": 7,
+    "Points": 13,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_4d20fd07b70146b78c447758311e523f"
+  },
+  {
+    "PlayerID": "NLA - 90",
+    "Name": "Jan Bürki",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 21,
+    "Goals": 11,
+    "Assists": 16,
+    "Points": 27,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_4d3c150732e64e439aea44c5de0d93d0"
+  },
+  {
+    "PlayerID": "NLA - 116",
+    "Name": "Jonas Nigg",
+    "Team": "Zug United",
+    "Games Played": 21,
+    "Goals": 2,
+    "Assists": 2,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_4e1a1039d59b4f429911316d34f23790"
+  },
+  {
+    "PlayerID": "NLA - 141",
+    "Name": "Linus Aberle",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5024860045064f2d843879d38d6a7028"
+  },
+  {
+    "PlayerID": "NLA - 61",
+    "Name": "Emanuele Pasotti",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 3,
+    "Assists": 2,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_503f516dfab74068af380a097f2fdfc4"
+  },
+  {
+    "PlayerID": "NLA - 120",
+    "Name": "Joris Hänseler",
+    "Team": "UHC Uster",
+    "Games Played": 21,
+    "Goals": 7,
+    "Assists": 1,
+    "Points": 8,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_50420867a02647239e9990869158c120"
+  },
+  {
+    "PlayerID": "NLA - 124",
+    "Name": "Julian Egli",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 1,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_511bc80ac0af435a8d4d4ff7beb32f1a"
+  },
+  {
+    "PlayerID": "NLA - 210",
+    "Name": "Nelio Rottaris",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 1,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_51425109b93c4f62a4347f09cc7adece"
+  },
+  {
+    "PlayerID": "NLA - 274",
+    "Name": "Severin Nigg",
+    "Team": "Zug United",
+    "Games Played": 3,
+    "Goals": 5,
+    "Assists": 1,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_51fddcdf8a31424dadad0b1b409680f7"
+  },
+  {
+    "PlayerID": "NLA - 2",
+    "Name": "Adam Nilsson",
+    "Team": "Chur Unihockey",
+    "Games Played": 21,
+    "Goals": 24,
+    "Assists": 18,
+    "Points": 42,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_52121f22160f43ef86c801b12630d36f"
+  },
+  {
+    "PlayerID": "NLA - 248",
+    "Name": "Radek Sikora",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 20,
+    "Goals": 3,
+    "Assists": 8,
+    "Points": 11,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5360cf5380ff46c58447a6c60198f1e2"
+  },
+  {
+    "PlayerID": "NLA - 172",
+    "Name": "Mario Bardill",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_54527779cfb342deb134f02c1c3921e2"
+  },
+  {
+    "PlayerID": "NLA - 313",
+    "Name": "Vinz Burren",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 19,
+    "Goals": 4,
+    "Assists": 0,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_551db357237e4b63bd0da3f440bf6661"
+  },
+  {
+    "PlayerID": "NLA - 76",
+    "Name": "Frederik Bisgaard",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 0,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5672437884644094bd6fa365c9c892f7"
+  },
+  {
+    "PlayerID": "NLA - 243",
+    "Name": "Patrick Krähenbühl",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 10,
+    "Assists": 6,
+    "Points": 16,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_57f2db16451a4473b3d59e1587104e1f"
+  },
+  {
+    "PlayerID": "NLA - 16",
+    "Name": "Andri Capatt",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 20,
+    "Goals": 3,
+    "Assists": 3,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_580f1b9086d04f91b3aca9b701ec9ea8"
+  },
+  {
+    "PlayerID": "NLA - 161",
+    "Name": "Lukas Zaugg",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 12,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_58712c7056e14d7ea415cf277359d871"
+  },
+  {
+    "PlayerID": "NLA - 81",
+    "Name": "Gian-Luca Amato",
+    "Team": "Chur Unihockey",
+    "Games Played": 20,
+    "Goals": 3,
+    "Assists": 2,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5957c3f0e99f4531b8561a118ffb49fb"
+  },
+  {
+    "PlayerID": "NLA - 272",
+    "Name": "Sebastian Mathis",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 7,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_59b1d51cda5f4334a19cb33e892b66f3"
+  },
+  {
+    "PlayerID": "NLA - 49",
+    "Name": "Dario Bürgler",
+    "Team": "Zug United",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5b8ea1b0aa03463e994823ed4afd8b60"
+  },
+  {
+    "PlayerID": "NLA - 128",
+    "Name": "Kimmo Reich",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5b9e652787664134bcd678d698f62f70"
+  },
+  {
+    "PlayerID": "NLA - 135",
+    "Name": "Leon Tringaniello",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 2,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5bd8ce303f7444838ad0f57754981676"
+  },
+  {
+    "PlayerID": "NLA - 7",
+    "Name": "Albin Sjögren",
+    "Team": "Zug United",
+    "Games Played": 22,
+    "Goals": 19,
+    "Assists": 54,
+    "Points": 73,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5c6d79bc712249779a91be79819cb114"
+  },
+  {
+    "PlayerID": "NLA - 300",
+    "Name": "Tino Mettier",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 3,
+    "Assists": 6,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5cc6cc49290b4e2db35ee96cd16cb4b9"
+  },
+  {
+    "PlayerID": "NLA - 37",
+    "Name": "Claude Feigenwinter",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5d28111deb074347b4e432180000d6ef"
+  },
+  {
+    "PlayerID": "NLA - 239",
+    "Name": "Pablo Mariotti",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 21,
+    "Assists": 20,
+    "Points": 41,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5dae70b08f204791a04425a3d255966b"
+  },
+  {
+    "PlayerID": "NLA - 60",
+    "Name": "Elisha Ekmann",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 1,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_5f069181b0af4f2a8ee12f1e3fb95af9"
+  },
+  {
+    "PlayerID": "NLA - 319",
+    "Name": "Yannic Fitzi",
+    "Team": "Floorball Thurgau",
+    "Games Played": 21,
+    "Goals": 19,
+    "Assists": 12,
+    "Points": 31,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6018f7843eac437d91c6e9c0cc8b1edb"
+  },
+  {
+    "PlayerID": "NLA - 315",
+    "Name": "Yanick Flury",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 20,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6025633313054cfa961a484b4c3b3d25"
+  },
+  {
+    "PlayerID": "NLA - 39",
+    "Name": "Claudio Schmid",
+    "Team": "UHC Uster",
+    "Games Played": 18,
+    "Goals": 13,
+    "Assists": 8,
+    "Points": 21,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_60d7258ca9034a66b31ee49370d38d2f"
+  },
+  {
+    "PlayerID": "NLA - 181",
+    "Name": "Martin Sindelar",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 8,
+    "Assists": 15,
+    "Points": 23,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_611b6313e39d4b7fa54da9f5583666d3"
+  },
+  {
+    "PlayerID": "NLA - 177",
+    "Name": "Markus Wellauer",
+    "Team": "WASA St. Gallen",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_614ebe0c755c4fbc848e8f9e5c418390"
+  },
+  {
+    "PlayerID": "NLA - 28",
+    "Name": "Benjamin Arm",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 6,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6374ca6405524d4784c21a05fbc7197c"
+  },
+  {
+    "PlayerID": "NLA - 178",
+    "Name": "Martin Gattnar",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 15,
+    "Assists": 6,
+    "Points": 21,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_64306df7af5840789c6c6d1a65337d29"
+  },
+  {
+    "PlayerID": "NLA - 269",
+    "Name": "Sandro Cavelti",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 7,
+    "Assists": 7,
+    "Points": 14,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_64cd9170bed44b89ac5c0b67b3f33c69"
+  },
+  {
+    "PlayerID": "NLA - 98",
+    "Name": "Janis Ribler",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 7,
+    "Assists": 1,
+    "Points": 8,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_656f37ac132a42dda79d35644346906a"
+  },
+  {
+    "PlayerID": "NLA - 29",
+    "Name": "Björn Schenkel",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 1,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_67c535b58a51444fb5adb9f7800d01e7"
+  },
+  {
+    "PlayerID": "NLA - 182",
+    "Name": "Matej Cermak",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 12,
+    "Assists": 14,
+    "Points": 26,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_697e78386f32470c9e74a99582588052"
+  },
+  {
+    "PlayerID": "NLA - 295",
+    "Name": "Timo Graf",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6a05a467608a419db2c915582dcfaaff"
+  },
+  {
+    "PlayerID": "NLA - 19",
+    "Name": "Andrin Christen",
+    "Team": "Zug United",
+    "Games Played": 17,
+    "Goals": 11,
+    "Assists": 7,
+    "Points": 18,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6a2a42adc0e247c7a33845e06fa5ff62"
+  },
+  {
+    "PlayerID": "NLA - 145",
+    "Name": "Linus Hedlund",
+    "Team": "Zug United",
+    "Games Played": 6,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6bc4045426ce4adeafc547c63ac9909f"
+  },
+  {
+    "PlayerID": "NLA - 288",
+    "Name": "Tim Aebersold",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 5,
+    "Assists": 2,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6bfe43b09f49461d975c131f0709936b"
+  },
+  {
+    "PlayerID": "NLA - 306",
+    "Name": "Tobias Meier",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 0,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6c1e9704b4ed4d999c76b216b338bdc6"
+  },
+  {
+    "PlayerID": "NLA - 198",
+    "Name": "Micha Strohl",
+    "Team": "Tigers Langnau",
+    "Games Played": 11,
+    "Goals": 1,
+    "Assists": 2,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6d1a9b3945f9461999cb830094577057"
+  },
+  {
+    "PlayerID": "NLA - 52",
+    "Name": "David Dürler",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 8,
+    "Points": 8,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6df6ca48d39746809b4c2e277adc0acf"
+  },
+  {
+    "PlayerID": "NLA - 33",
+    "Name": "Christian Stucki",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 10,
+    "Assists": 9,
+    "Points": 19,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6e49ebc7484943a691a7e4a503914272"
+  },
+  {
+    "PlayerID": "NLA - 185",
+    "Name": "Matthias Störi",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 22,
+    "Goals": 3,
+    "Assists": 4,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_6f3c5c66db7245bf89a94ea52dc2c8e5"
+  },
+  {
+    "PlayerID": "NLA - 286",
+    "Name": "Thomas Mir",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_72e5928adecc417c8a85f62b12f15db9"
+  },
+  {
+    "PlayerID": "NLA - 167",
+    "Name": "Marc-André Vogt",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 20,
+    "Goals": 11,
+    "Assists": 5,
+    "Points": 16,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_73116903b34e456585205c711b0fe7e7"
+  },
+  {
+    "PlayerID": "NLA - 200",
+    "Name": "Michael Schwizer",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 2,
+    "Assists": 2,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_739a96ad7feb4220a125a01a19e17759"
+  },
+  {
+    "PlayerID": "NLA - 245",
+    "Name": "Patrick Zürcher",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 6,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_74937aef92d2402d8567e350adb4ca2a"
+  },
+  {
+    "PlayerID": "NLA - 186",
+    "Name": "Matti Nussle",
+    "Team": "Chur Unihockey",
+    "Games Played": 15,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_75e67d9c3db74fb0b52d37f5c6cd60d8"
+  },
+  {
+    "PlayerID": "NLA - 17",
+    "Name": "Andri Flütsch",
+    "Team": "Zug United",
+    "Games Played": 9,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7614f9dd1bb14f74aa140d62c64fe7a4"
+  },
+  {
+    "PlayerID": "NLA - 64",
+    "Name": "Eric Kunz",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_768f1db204b749c0831de65bceaf69fa"
+  },
+  {
+    "PlayerID": "NLA - 130",
+    "Name": "Kristian Lamminen",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 18,
+    "Assists": 10,
+    "Points": 28,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_777e6ef77e8e4c02b290df0279294267"
+  },
+  {
+    "PlayerID": "NLA - 51",
+    "Name": "Dario Kälin",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 19,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_77d5d8f82cde4b47b75d8dc8b2f050aa"
+  },
+  {
+    "PlayerID": "NLA - 107",
+    "Name": "Jere Pulkkinen",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 5,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_79532d44aabe48aea9ded957805bdd57"
+  },
+  {
+    "PlayerID": "NLA - 222",
+    "Name": "Niklas Graf",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 13,
+    "Assists": 9,
+    "Points": 22,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7a1b48c9a14f49c5b9016f9e380c7bcf"
+  },
+  {
+    "PlayerID": "NLA - 40",
+    "Name": "Cyril Haldemann",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7a3712d8c15d48e8843e4178f55c28db"
+  },
+  {
+    "PlayerID": "NLA - 236",
+    "Name": "Nuno Brosi",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 5,
+    "Assists": 4,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7a5a88d91e564f36970347899c293c34"
+  },
+  {
+    "PlayerID": "NLA - 168",
+    "Name": "Marcel Arnet",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 6,
+    "Assists": 4,
+    "Points": 10,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7b87baebf04f422fa08b643bcdf3c598"
+  },
+  {
+    "PlayerID": "NLA - 146",
+    "Name": "Linus Màckli",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7c53ea2eef1446fb98b2ead734be6c8a"
+  },
+  {
+    "PlayerID": "NLA - 123",
+    "Name": "Josia Pfister",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 1,
+    "Assists": 6,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7ce6575dc3f54edbb09081f24cb0bdf8"
+  },
+  {
+    "PlayerID": "NLA - 305",
+    "Name": "Tobias Ledergerber",
+    "Team": "UHC Uster",
+    "Games Played": 21,
+    "Goals": 4,
+    "Assists": 8,
+    "Points": 12,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7d62ff35d2044e0fa29ec2a4a6d69244"
+  },
+  {
+    "PlayerID": "NLA - 250",
+    "Name": "Rahul Chiplunkar",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 7,
+    "Assists": 10,
+    "Points": 17,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7d678957bd9147778ac08c65dc7aee90"
+  },
+  {
+    "PlayerID": "NLA - 215",
+    "Name": "Nico Mutter",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 11,
+    "Assists": 8,
+    "Points": 19,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_7fe0aefc35cf446aab0db595215a62b1"
+  },
+  {
+    "PlayerID": "NLA - 166",
+    "Name": "Marc Luck",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8121d0969c5d4071b3833956536e5e4c"
+  },
+  {
+    "PlayerID": "NLA - 133",
+    "Name": "Lars Weibel",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 19,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_81639fadc91a448fa73d625fad9d087c"
+  },
+  {
+    "PlayerID": "NLA - 118",
+    "Name": "Jonas Stettler",
+    "Team": "Zug United",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8281dcf6b4db43e1b17d442f1823c18f"
+  },
+  {
+    "PlayerID": "NLA - 46",
+    "Name": "Daniel Minger",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 17,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_83737557f8064928932bcf581ba7f2b8"
+  },
+  {
+    "PlayerID": "NLA - 95",
+    "Name": "Jan Ziehli",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 6,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_860cc9571c2a4dc5804c407c00d0d28c"
+  },
+  {
+    "PlayerID": "NLA - 105",
+    "Name": "Jean-Luc Klöti",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 2,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_87d340c553764c8ca124721dde0b81cf"
+  },
+  {
+    "PlayerID": "NLA - 265",
+    "Name": "Rovin Thalmann",
+    "Team": "Floorball Thurgau",
+    "Games Played": 10,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_87df7dc077934364b9256d1eab14ea28"
+  },
+  {
+    "PlayerID": "NLA - 32",
+    "Name": "Christian Remes",
+    "Team": "Floorball Thurgau",
+    "Games Played": 21,
+    "Goals": 11,
+    "Assists": 10,
+    "Points": 21,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_884be12b1dc44471a6e680ebe5527673"
+  },
+  {
+    "PlayerID": "NLA - 106",
+    "Name": "Jens Homberger",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_88bb50ec8c43401ead4b9019b8bf85ca"
+  },
+  {
+    "PlayerID": "NLA - 285",
+    "Name": "Thomas Gfeller",
+    "Team": "Tigers Langnau",
+    "Games Played": 21,
+    "Goals": 19,
+    "Assists": 10,
+    "Points": 29,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_89f07a5e47f44e89b7034878061c4d08"
+  },
+  {
+    "PlayerID": "NLA - 84",
+    "Name": "Henrik Von Wangenheim",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8a24651ebbf74bcea79d6bf3fd1d2ab1"
+  },
+  {
+    "PlayerID": "NLA - 251",
+    "Name": "Ramon Mir",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8a61cf52e94146f8bfd56cd6de9372aa"
+  },
+  {
+    "PlayerID": "NLA - 69",
+    "Name": "Fabrice Göldi",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 6,
+    "Assists": 10,
+    "Points": 16,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8a8cb5d146fa4a55894487c1056cd525"
+  },
+  {
+    "PlayerID": "NLA - 309",
+    "Name": "Tom Fächter",
+    "Team": "Floorball Thurgau",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8b7783bb17bf4fd09502f2746705259f"
+  },
+  {
+    "PlayerID": "NLA - 259",
+    "Name": "Robin Hostettler",
+    "Team": "Floorball Thurgau",
+    "Games Played": 21,
+    "Goals": 5,
+    "Assists": 4,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8ba3dceffe204f3faec0955fb39a8a59"
+  },
+  {
+    "PlayerID": "NLA - 175",
+    "Name": "Markus Lindgjerdet",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 6,
+    "Assists": 13,
+    "Points": 19,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8ccdea9f03e94ce492a446617e920ecc"
+  },
+  {
+    "PlayerID": "NLA - 307",
+    "Name": "Tobias Schaffner",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8d4bb48b5e7643e3bff0543b805eec61"
+  },
+  {
+    "PlayerID": "NLA - 249",
+    "Name": "Rafael Hägli",
+    "Team": "Tigers Langnau",
+    "Games Played": 6,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8e11e88e7c2040b58717510de329fde6"
+  },
+  {
+    "PlayerID": "NLA - 275",
+    "Name": "Severin Ott",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 16,
+    "Goals": 2,
+    "Assists": 0,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8e6b9e3260824c08a424e0ca6120a856"
+  },
+  {
+    "PlayerID": "NLA - 13",
+    "Name": "Amelio Tambini",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 19,
+    "Goals": 6,
+    "Assists": 3,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_8f9114f37f79417cbb073ba4648d978c"
+  },
+  {
+    "PlayerID": "NLA - 139",
+    "Name": "Levin Peter",
+    "Team": "Floorball Thurgau",
+    "Games Played": 16,
+    "Goals": 2,
+    "Assists": 1,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_90056a2ef22c4efab688eccf74864b24"
+  },
+  {
+    "PlayerID": "NLA - 55",
+    "Name": "Dennis Kramer",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 3,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_906b890e9c8040078f52e94c3fff7557"
+  },
+  {
+    "PlayerID": "NLA - 291",
+    "Name": "Tim Glöcki",
+    "Team": "Tigers Langnau",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_9129a393c09b4e2999c7ae12b38ee7bd"
+  },
+  {
+    "PlayerID": "NLA - 22",
+    "Name": "Andrin Mäckli",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_913e3ea3c0e54f91acd062efbd88326a"
+  },
+  {
+    "PlayerID": "NLA - 252",
+    "Name": "Ramon Zenger",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 1,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_92521ac7863740369c4504875029eaaf"
+  },
+  {
+    "PlayerID": "NLA - 323",
+    "Name": "Yves Walliser",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 1,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_92f48a87c1df49c9b12e13926bea8505"
+  },
+  {
+    "PlayerID": "NLA - 108",
+    "Name": "Jhonan Meier",
+    "Team": "UHC Uster",
+    "Games Played": 15,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_950d9956a2d84545b42ab5abcaab8d02"
+  },
+  {
+    "PlayerID": "NLA - 58",
+    "Name": "Dylan Hasenböhler",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 21,
+    "Goals": 6,
+    "Assists": 6,
+    "Points": 12,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_9576be4866fb45f9b7b6e4e9a72c3dff"
+  },
+  {
+    "PlayerID": "NLA - 63",
+    "Name": "Eric Grunder",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 14,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_95aba7c36d5e4539a53c98f7df56a699"
+  },
+  {
+    "PlayerID": "NLA - 92",
+    "Name": "Jan Malte Lemke",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_9652f10e61ea4bc98f82154d49142fae"
+  },
+  {
+    "PlayerID": "NLA - 184",
+    "Name": "Matteo Nico Steiner",
+    "Team": "Tigers Langnau",
+    "Games Played": 20,
+    "Goals": 24,
+    "Assists": 13,
+    "Points": 37,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_966066fc48304ab69b0badef228f0439"
+  },
+  {
+    "PlayerID": "NLA - 4",
+    "Name": "Adrian Uhr",
+    "Team": "Zug United",
+    "Games Played": 22,
+    "Goals": 4,
+    "Assists": 2,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_97fa62c488864b90880865854f8b0db7"
+  },
+  {
+    "PlayerID": "NLA - 34",
+    "Name": "Christof Marugg",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 19,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_98205b6e28f34c9db042dba05fd2ee55"
+  },
+  {
+    "PlayerID": "NLA - 201",
+    "Name": "Michel Wöcke",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 5,
+    "Assists": 2,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_98f29811cc6e43d8b4f785a3fe8cf466"
+  },
+  {
+    "PlayerID": "NLA - 287",
+    "Name": "Till Eser",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 14,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_98f32df4d9514785b913a637028e9511"
+  },
+  {
+    "PlayerID": "NLA - 227",
+    "Name": "Nino Bühler",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 20,
+    "Goals": 4,
+    "Assists": 4,
+    "Points": 8,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_994eeaa0bd094b9881b356aa0dcd2d92"
+  },
+  {
+    "PlayerID": "NLA - 126",
+    "Name": "Kevin Kropf",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 14,
+    "Assists": 14,
+    "Points": 28,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_996eaf1f338340928825b3840b3d611c"
+  },
+  {
+    "PlayerID": "NLA - 254",
+    "Name": "Rasmus Enström",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 10,
+    "Assists": 14,
+    "Points": 24,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_9aa7de4f2dda44e096a58ef2e2798114"
+  },
+  {
+    "PlayerID": "NLA - 202",
+    "Name": "Mika Hänni",
+    "Team": "Floorball Thurgau",
+    "Games Played": 17,
+    "Goals": 1,
+    "Assists": 3,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_9c39a300d5c1467c85957d00e06378ee"
+  },
+  {
+    "PlayerID": "NLA - 278",
+    "Name": "Silvan Maurer",
+    "Team": "WASA St. Gallen",
+    "Games Played": 16,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_9c5e26f741584bea867ffb0e00daeb34"
+  },
+  {
+    "PlayerID": "NLA - 258",
+    "Name": "Robin Eggimann",
+    "Team": "Zug United",
+    "Games Played": 21,
+    "Goals": 3,
+    "Assists": 1,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_9cf14e5bf2ff4e84af7ef0c942b7de28"
+  },
+  {
+    "PlayerID": "NLA - 36",
+    "Name": "Christoph Reich",
+    "Team": "Chur Unihockey",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_9e8ddd5adf664be697af4a5a04381b21"
+  },
+  {
+    "PlayerID": "NLA - 48",
+    "Name": "Daniels Janis Anis",
+    "Team": "UHC Uster",
+    "Games Played": 19,
+    "Goals": 21,
+    "Assists": 5,
+    "Points": 26,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a22ee7a87bec428daa94a91bf3481135"
+  },
+  {
+    "PlayerID": "NLA - 197",
+    "Name": "Mias Wellauer",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 4,
+    "Assists": 2,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a3a05b1bf8854567a6795c9b15f677dd"
+  },
+  {
+    "PlayerID": "NLA - 86",
+    "Name": "Ivo Lüthi",
+    "Team": "Floorball Thurgau",
+    "Games Played": 22,
+    "Goals": 14,
+    "Assists": 8,
+    "Points": 22,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a3a498245ebf4170aa9856a087a726b8"
+  },
+  {
+    "PlayerID": "NLA - 310",
+    "Name": "Tommy Bolin",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 19,
+    "Assists": 9,
+    "Points": 28,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a45e19ecc1b045009ac8da1ab2a72661"
+  },
+  {
+    "PlayerID": "NLA - 99",
+    "Name": "Janis Schwarz",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 5,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a53b896eb2d04d379229e00f5e373fd8"
+  },
+  {
+    "PlayerID": "NLA - 103",
+    "Name": "Jari Portmann",
+    "Team": "Zug United",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a5c5374a2b6e4a009ab601ff49940035"
+  },
+  {
+    "PlayerID": "NLA - 156",
+    "Name": "Luca Steiner",
+    "Team": "Tigers Langnau",
+    "Games Played": 21,
+    "Goals": 3,
+    "Assists": 1,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a6af87bc8d184357a0e668ca79b2903e"
+  },
+  {
+    "PlayerID": "NLA - 226",
+    "Name": "Nils Schälin",
+    "Team": "Zug United",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a7689a4866334ef4821cbdfdbf83ae98"
+  },
+  {
+    "PlayerID": "NLA - 155",
+    "Name": "Luca Kneubühler",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a860418936be49b28eaf7398917d9b53"
+  },
+  {
+    "PlayerID": "NLA - 12",
+    "Name": "Almiro Städeli",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 3,
+    "Assists": 0,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a88a24b484fc48bab60bda87ce94ebfb"
+  },
+  {
+    "PlayerID": "NLA - 264",
+    "Name": "Ronald Gasparik",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 8,
+    "Goals": 3,
+    "Assists": 6,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a94f1eb94ad44a60aca654ddd14c7ed4"
+  },
+  {
+    "PlayerID": "NLA - 88",
+    "Name": "Jamie Britt",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 19,
+    "Assists": 14,
+    "Points": 33,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a9701d1f5c5041098910c42ca10057e3"
+  },
+  {
+    "PlayerID": "NLA - 173",
+    "Name": "Mario Kunz",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 0,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a9833c1cdbf44e749e9b95603d6e18d4"
+  },
+  {
+    "PlayerID": "NLA - 174",
+    "Name": "Markus Holenstein",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 9,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_a9f8ba58a3fc4526b9bc54b2f870af8d"
+  },
+  {
+    "PlayerID": "NLA - 199",
+    "Name": "Michael Haenle",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_aa17059282af4823964080862a2fab44"
+  },
+  {
+    "PlayerID": "NLA - 240",
+    "Name": "Paolo Riedi",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 24,
+    "Assists": 20,
+    "Points": 44,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_abbd9e8114bd4fb885fcbdefedd690ee"
+  },
+  {
+    "PlayerID": "NLA - 322",
+    "Name": "Yves Klöti",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 14,
+    "Assists": 5,
+    "Points": 19,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ac409821455f48ff8c8fe159bd1d19c9"
+  },
+  {
+    "PlayerID": "NLA - 317",
+    "Name": "Yann Andrea Ruh",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 8,
+    "Assists": 16,
+    "Points": 24,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ac47aee7a6e940cc9896dd5367ed0398"
+  },
+  {
+    "PlayerID": "NLA - 223",
+    "Name": "Niklas Rutz",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 3,
+    "Assists": 1,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ad6036bc7f3c460a958ba35b70b561f2"
+  },
+  {
+    "PlayerID": "NLA - 87",
+    "Name": "Jack Sundling",
+    "Team": "WASA St. Gallen",
+    "Games Played": 13,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ad691d1358e14411a246771c89a7f851"
+  },
+  {
+    "PlayerID": "NLA - 56",
+    "Name": "Dominic Herzog",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 3,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ae863f4d46f64180aaba5948e66fc91d"
+  },
+  {
+    "PlayerID": "NLA - 234",
+    "Name": "Noel Knüsel",
+    "Team": "UHC Uster",
+    "Games Played": 22,
+    "Goals": 2,
+    "Assists": 3,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_aee2e181e9954f6fa33cda54774bf7fa"
+  },
+  {
+    "PlayerID": "NLA - 47",
+    "Name": "Daniel Sesulka",
+    "Team": "Chur Unihockey",
+    "Games Played": 21,
+    "Goals": 4,
+    "Assists": 3,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_af011ecd629e4d01bc1e7e6a6ada99a5"
+  },
+  {
+    "PlayerID": "NLA - 18",
+    "Name": "Andri Kunz",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 20,
+    "Goals": 1,
+    "Assists": 2,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_af1a66f26aa44dbb89a809657053df62"
+  },
+  {
+    "PlayerID": "NLA - 281",
+    "Name": "Simon Steiner",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 15,
+    "Assists": 12,
+    "Points": 27,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_afb15641aed74768a304f594eb0fb072"
+  },
+  {
+    "PlayerID": "NLA - 299",
+    "Name": "Timon Stäubli",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 13,
+    "Assists": 6,
+    "Points": 19,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_afcea2d9024749319663dba5e138b9f1"
+  },
+  {
+    "PlayerID": "NLA - 66",
+    "Name": "Fabian Schüpbach",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 14,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b076dde00db648c0b29ae0524d7be0b4"
+  },
+  {
+    "PlayerID": "NLA - 134",
+    "Name": "Leon Schlegel",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 6,
+    "Assists": 3,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b31b259b6c774881b1a6ac39d879475f"
+  },
+  {
+    "PlayerID": "NLA - 279",
+    "Name": "Simo Zaugg",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 20,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b3c39f7a3f1c48578c403da84076abb5"
+  },
+  {
+    "PlayerID": "NLA - 304",
+    "Name": "Tobias Gustafsson",
+    "Team": "Zug United",
+    "Games Played": 18,
+    "Goals": 16,
+    "Assists": 11,
+    "Points": 27,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b3e251fe0f7a42a194924731bd547c6c"
+  },
+  {
+    "PlayerID": "NLA - 238",
+    "Name": "Oliver Wiedmer",
+    "Team": "Floorball Thurgau",
+    "Games Played": 21,
+    "Goals": 8,
+    "Assists": 7,
+    "Points": 15,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b585f2af23c647c5abd3fe2a08f2d0cc"
+  },
+  {
+    "PlayerID": "NLA - 228",
+    "Name": "Noah Bisig",
+    "Team": "Zug United",
+    "Games Played": 7,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b5950b973aa643728cbd078189cccd18"
+  },
+  {
+    "PlayerID": "NLA - 157",
+    "Name": "Lucas Schlegel",
+    "Team": "Tigers Langnau",
+    "Games Played": 12,
+    "Goals": 2,
+    "Assists": 0,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b6510b56c3ce4b1582ac9b089e00d579"
+  },
+  {
+    "PlayerID": "NLA - 8",
+    "Name": "Alessandro Alliata",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 5,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b6d5c5d949d948539fc112801a363b94"
+  },
+  {
+    "PlayerID": "NLA - 263",
+    "Name": "Romano Schubiger",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b7051182972f40d6b9882cf9bd237b24"
+  },
+  {
+    "PlayerID": "NLA - 320",
+    "Name": "Yannick Hirschi",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b86f55dc7b5942858e22fde8b3f7ec03"
+  },
+  {
+    "PlayerID": "NLA - 192",
+    "Name": "Mauro Hartmann",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 20,
+    "Goals": 1,
+    "Assists": 1,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b99ffa489def44ee861d44bc73e222fc"
+  },
+  {
+    "PlayerID": "NLA - 253",
+    "Name": "Raphael Neidhart",
+    "Team": "Zug United",
+    "Games Played": 20,
+    "Goals": 2,
+    "Assists": 2,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_b9a233d364404753ace212bcb154d5aa"
+  },
+  {
+    "PlayerID": "NLA - 77",
+    "Name": "Gian Luca Schiessl",
+    "Team": "Tigers Langnau",
+    "Games Played": 19,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_bc3f4b7e98854c95863daa4d0f801134"
+  },
+  {
+    "PlayerID": "NLA - 205",
+    "Name": "Mike Zahner",
+    "Team": "WASA St. Gallen",
+    "Games Played": 12,
+    "Goals": 7,
+    "Assists": 3,
+    "Points": 10,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_bca588b19778450faeb944c7090d75b2"
+  },
+  {
+    "PlayerID": "NLA - 97",
+    "Name": "Janis Lauber",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 8,
+    "Assists": 15,
+    "Points": 23,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_bea2853bc997463abdb39c55f832e690"
+  },
+  {
+    "PlayerID": "NLA - 233",
+    "Name": "Noél Greber",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 11,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_bfad810a035a4e03b15eda7976b1921e"
+  },
+  {
+    "PlayerID": "NLA - 273",
+    "Name": "Severin Moser",
+    "Team": "WASA St. Gallen",
+    "Games Played": 17,
+    "Goals": 3,
+    "Assists": 3,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c231758606b14b3c898a76d2c708d1f8"
+  },
+  {
+    "PlayerID": "NLA - 216",
+    "Name": "Nico Obrecht",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 19,
+    "Goals": 3,
+    "Assists": 1,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c24520bb34d54b48af0b41ef2a28141f"
+  },
+  {
+    "PlayerID": "NLA - 127",
+    "Name": "Kilian Franzen",
+    "Team": "UHC Uster",
+    "Games Played": 20,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c2c77fcfc4db4665952c584ef6060678"
+  },
+  {
+    "PlayerID": "NLA - 260",
+    "Name": "Robin Nilsberth",
+    "Team": "Zug United",
+    "Games Played": 17,
+    "Goals": 11,
+    "Assists": 16,
+    "Points": 27,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c4946737cbbb4c3dafea15e6b50208e8"
+  },
+  {
+    "PlayerID": "NLA - 43",
+    "Name": "Dan Hartmann",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 9,
+    "Assists": 8,
+    "Points": 17,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c49fe04e3dc54e4faffd0d16b03f34b4"
+  },
+  {
+    "PlayerID": "NLA - 75",
+    "Name": "Florin Fehr",
+    "Team": "Floorball Thurgau",
+    "Games Played": 21,
+    "Goals": 5,
+    "Assists": 6,
+    "Points": 11,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c62fa0f3f21f4c839357498875a71fe9"
+  },
+  {
+    "PlayerID": "NLA - 303",
+    "Name": "Tobias Flütsch",
+    "Team": "Zug United",
+    "Games Played": 22,
+    "Goals": 1,
+    "Assists": 1,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c6338fec4e1e40ab87d25c830f67f6b2"
+  },
+  {
+    "PlayerID": "NLA - 110",
+    "Name": "Joel Müller",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 20,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c67d748e88b14c6cbbf199011d955de0"
+  },
+  {
+    "PlayerID": "NLA - 257",
+    "Name": "Remo Buchli",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 13,
+    "Assists": 6,
+    "Points": 19,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c8f17fba1bbe425f98d06d7fe066d4b0"
+  },
+  {
+    "PlayerID": "NLA - 204",
+    "Name": "Mike Jäger",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 11,
+    "Assists": 4,
+    "Points": 15,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_c9fcb11068954eb5822817055a6062b5"
+  },
+  {
+    "PlayerID": "NLA - 230",
+    "Name": "Noah Püntener",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 9,
+    "Assists": 6,
+    "Points": 15,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_cb5dd830a45f4b728d48be721bbd5a22"
+  },
+  {
+    "PlayerID": "NLA - 79",
+    "Name": "Gian Thöni",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 20,
+    "Goals": 7,
+    "Assists": 4,
+    "Points": 11,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_cc30066b1d66440493d6b7b14084f5d2"
+  },
+  {
+    "PlayerID": "NLA - 62",
+    "Name": "Emil Mikaelsson",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 13,
+    "Goals": 1,
+    "Assists": 3,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_cc3560d91d93462590bd2e0c1901c6ec"
+  },
+  {
+    "PlayerID": "NLA - 193",
+    "Name": "Mauro Stingelin",
+    "Team": "WASA St. Gallen",
+    "Games Played": 20,
+    "Goals": 1,
+    "Assists": 1,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_cc90644fa8ee4859a21421027f157a68"
+  },
+  {
+    "PlayerID": "NLA - 170",
+    "Name": "Marco Eyer",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 21,
+    "Goals": 4,
+    "Assists": 1,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ccbf2510777446dbad727684a9f9f7c3"
+  },
+  {
+    "PlayerID": "NLA - 140",
+    "Name": "Lian Schefer",
+    "Team": "Floorball Thurgau",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ce5ad21d604b4d149c0202602bb56dab"
+  },
+  {
+    "PlayerID": "NLA - 280",
+    "Name": "Simon Laubscher",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 22,
+    "Goals": 6,
+    "Assists": 7,
+    "Points": 13,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d07837e339704cfc82dc720d7b52b145"
+  },
+  {
+    "PlayerID": "NLA - 50",
+    "Name": "Dario Decasper",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 4,
+    "Assists": 5,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d0985db59dda405f8b94d4371975f920"
+  },
+  {
+    "PlayerID": "NLA - 283",
+    "Name": "Stefan Schiess",
+    "Team": "WASA St. Gallen",
+    "Games Played": 17,
+    "Goals": 3,
+    "Assists": 3,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d1696442c4ca42519643f226c0671a9b"
+  },
+  {
+    "PlayerID": "NLA - 189",
+    "Name": "Maurin Biner",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 1,
+    "Assists": 1,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d1d28bc855904229aba34a1d78af7fb2"
+  },
+  {
+    "PlayerID": "NLA - 235",
+    "Name": "Noél Siegenthaler",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 14,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d2e1c65fd1fb4e6f8c7a7e6f52873c0e"
+  },
+  {
+    "PlayerID": "NLA - 237",
+    "Name": "Odin Steinhauser",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d3194af0a2d04e478161436a62b2de8c"
+  },
+  {
+    "PlayerID": "NLA - 24",
+    "Name": "Andrin Zellweger",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 7,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d459b5e49bb6471d919adac9a7e3d15d"
+  },
+  {
+    "PlayerID": "NLA - 91",
+    "Name": "Jan Fleisch",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 17,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d58b4731bb274e718cf3b22e86fd98fc"
+  },
+  {
+    "PlayerID": "NLA - 160",
+    "Name": "Lukas Veltsmid",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 8,
+    "Assists": 6,
+    "Points": 14,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d6cd38c97bac4bcfb3533c41bcdc6618"
+  },
+  {
+    "PlayerID": "NLA - 26",
+    "Name": "Aron Roselli",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 21,
+    "Goals": 6,
+    "Assists": 4,
+    "Points": 10,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d716a8d2b9cc431fb48f30d66f98005c"
+  },
+  {
+    "PlayerID": "NLA - 298",
+    "Name": "Timon Merz",
+    "Team": "Floorball Thurgau",
+    "Games Played": 15,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_d99f92fe9e6042c19732aad7bc57943f"
+  },
+  {
+    "PlayerID": "NLA - 241",
+    "Name": "Pascal Michel",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 12,
+    "Assists": 11,
+    "Points": 23,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_da9015c069b44fbb9d4b8831b34b53eb"
+  },
+  {
+    "PlayerID": "NLA - 191",
+    "Name": "Mauro Blumenthal",
+    "Team": "Chur Unihockey",
+    "Games Played": 4,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_daa9c34a92d947938208b41924fdc794"
+  },
+  {
+    "PlayerID": "NLA - 219",
+    "Name": "Nicola Brätsch",
+    "Team": "UHC Uster",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_dc573b096f114bb7b7dacb5fe8284edb"
+  },
+  {
+    "PlayerID": "NLA - 267",
+    "Name": "Samuel Poffet",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 9,
+    "Assists": 5,
+    "Points": 14,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_dd2fef2e48ae460fb7360f49f0ff2ec3"
+  },
+  {
+    "PlayerID": "NLA - 162",
+    "Name": "Mael Rychener",
+    "Team": "Tigers Langnau",
+    "Games Played": 2,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_de61268da60846489fca2841f2d1edcd"
+  },
+  {
+    "PlayerID": "NLA - 1",
+    "Name": "Adam Lundgren",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 16,
+    "Assists": 10,
+    "Points": 26,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_de61492fbe5f45f7b1f6df695b2b12ca"
+  },
+  {
+    "PlayerID": "NLA - 150",
+    "Name": "Loris Kislig",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 1,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ded7cbe1901c4e94ba22639f0bef85e2"
+  },
+  {
+    "PlayerID": "NLA - 93",
+    "Name": "Jan Wittenwiler",
+    "Team": "UHC Uster",
+    "Games Played": 13,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e055c4389f1f484e86f282a04779c90e"
+  },
+  {
+    "PlayerID": "NLA - 246",
+    "Name": "Peer Hoorn",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 20,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e1fa0b90d4bc42c38c762190c9f1d60b"
+  },
+  {
+    "PlayerID": "NLA - 31",
+    "Name": "Cedric Söderberg",
+    "Team": "Chur Unihockey",
+    "Games Played": 20,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e24ad4994eec458bb466bacf8d13eeb6"
+  },
+  {
+    "PlayerID": "NLA - 143",
+    "Name": "Linus Chrétien",
+    "Team": "UHC Uster",
+    "Games Played": 16,
+    "Goals": 4,
+    "Assists": 2,
+    "Points": 6,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e43b0f7bbd9d4673b9a85661f2f9b511"
+  },
+  {
+    "PlayerID": "NLA - 187",
+    "Name": "Mattia Schmied",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 4,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e442cb7346934a279585ab62700ee32d"
+  },
+  {
+    "PlayerID": "NLA - 42",
+    "Name": "Damian Rohner",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 20,
+    "Goals": 2,
+    "Assists": 1,
+    "Points": 3,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e56282a6960e4bc394915a37eb2e2e93"
+  },
+  {
+    "PlayerID": "NLA - 244",
+    "Name": "Patrick Mendelin",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 12,
+    "Assists": 19,
+    "Points": 31,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e59b19f6b2834e4cab49b123dbaea318"
+  },
+  {
+    "PlayerID": "NLA - 290",
+    "Name": "Tim Döbeli",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 16,
+    "Goals": 3,
+    "Assists": 2,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e68b7e289be040d38ba7ebde054bbd34"
+  },
+  {
+    "PlayerID": "NLA - 136",
+    "Name": "Levi Walser",
+    "Team": "Chur Unihockey",
+    "Games Played": 22,
+    "Goals": 9,
+    "Assists": 6,
+    "Points": 15,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e93e86281a7344e0981dc9cdbdf7ae66"
+  },
+  {
+    "PlayerID": "NLA - 83",
+    "Name": "Gustav Svensson",
+    "Team": "Tigers Langnau",
+    "Games Played": 12,
+    "Goals": 2,
+    "Assists": 3,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e9566df61498464191afd5521674bb15"
+  },
+  {
+    "PlayerID": "NLA - 53",
+    "Name": "David Gross",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 6,
+    "Assists": 3,
+    "Points": 9,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_e9dbc0ce79864a7dbfd6647968dd9e5f"
+  },
+  {
+    "PlayerID": "NLA - 114",
+    "Name": "Johan Larsson",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 4,
+    "Assists": 12,
+    "Points": 16,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_eb9e9627a7714ece8164b5c5dc43427a"
+  },
+  {
+    "PlayerID": "NLA - 266",
+    "Name": "Sami Johansson",
+    "Team": "Zug United",
+    "Games Played": 19,
+    "Goals": 35,
+    "Assists": 16,
+    "Points": 51,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ebcf68690dfc417da38f6acbffaac339"
+  },
+  {
+    "PlayerID": "NLA - 188",
+    "Name": "Maurice Aebersold",
+    "Team": "Tigers Langnau",
+    "Games Played": 21,
+    "Goals": 4,
+    "Assists": 4,
+    "Points": 8,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ec29b0c9bfba4f20ad82dfe45f1ae87f"
+  },
+  {
+    "PlayerID": "NLA - 190",
+    "Name": "Maurin Klesse",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 20,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ecb86f58d59442b8867ea5c11bcb717c"
+  },
+  {
+    "PlayerID": "NLA - 302",
+    "Name": "Tizian Nikles",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 21,
+    "Goals": 1,
+    "Assists": 4,
+    "Points": 5,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_eccf4363372b488d8d46e51d052030a4"
+  },
+  {
+    "PlayerID": "NLA - 229",
+    "Name": "Noah Mühlebach",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 10,
+    "Goals": 1,
+    "Assists": 3,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_eea9eb11b71347f1a3682cc40dbdb495"
+  },
+  {
+    "PlayerID": "NLA - 153",
+    "Name": "Luca Fankhauser",
+    "Team": "Tigers Langnau",
+    "Games Played": 21,
+    "Goals": 3,
+    "Assists": 4,
+    "Points": 7,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_eed3a2392127449f83ac13801eb0bff0"
+  },
+  {
+    "PlayerID": "NLA - 6",
+    "Name": "Albert Koskinen",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 17,
+    "Goals": 14,
+    "Assists": 10,
+    "Points": 24,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ef64a3415f27442aa3c3c007ef8577cc"
+  },
+  {
+    "PlayerID": "NLA - 268",
+    "Name": "Samuel Volkart",
+    "Team": "UHC Alligator Malans",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 4,
+    "Points": 4,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f05f27af27ea4157a9d0dc5123bf06f4"
+  },
+  {
+    "PlayerID": "NLA - 71",
+    "Name": "Felix Abrahamsson",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 7,
+    "Assists": 6,
+    "Points": 13,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f0a82d868001414385be46cf8697b6d4"
+  },
+  {
+    "PlayerID": "NLA - 45",
+    "Name": "Daniel Keller",
+    "Team": "WASA St. Gallen",
+    "Games Played": 15,
+    "Goals": 12,
+    "Assists": 6,
+    "Points": 18,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f0d3733b0b814215b420bf07b95d2bda"
+  },
+  {
+    "PlayerID": "NLA - 59",
+    "Name": "Elia Seiler",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 5,
+    "Assists": 8,
+    "Points": 13,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f13dc2610a5c4c01b48a453b9fd0db54"
+  },
+  {
+    "PlayerID": "NLA - 41",
+    "Name": "Damian Hocevar",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 13,
+    "Goals": 0,
+    "Assists": 1,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f221bf21b7424be99e3b3a3cb4b4b9a5"
+  },
+  {
+    "PlayerID": "NLA - 68",
+    "Name": "Fabio Plozza",
+    "Team": "Unihockey Basel Regio",
+    "Games Played": 22,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f239c202e56246a08995658f6c366610"
+  },
+  {
+    "PlayerID": "NLA - 308",
+    "Name": "Tobias Studer",
+    "Team": "HC Rychenberg Winterthur",
+    "Games Played": 22,
+    "Goals": 6,
+    "Assists": 6,
+    "Points": 12,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f240f2bb4a5944328029c358856bdb16"
+  },
+  {
+    "PlayerID": "NLA - 217",
+    "Name": "Nico Salo",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 8,
+    "Goals": 6,
+    "Assists": 5,
+    "Points": 11,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f2f38631551f4249bb9faf9607762244"
+  },
+  {
+    "PlayerID": "NLA - 318",
+    "Name": "Yannic Betschart",
+    "Team": "WASA St. Gallen",
+    "Games Played": 4,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f3a36f349f334412917b6202a4e908a8"
+  },
+  {
+    "PlayerID": "NLA - 138",
+    "Name": "Levin Gägi",
+    "Team": "WASA St. Gallen",
+    "Games Played": 20,
+    "Goals": 1,
+    "Assists": 0,
+    "Points": 1,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f3dad04169af406da9ab28a1a5f78993"
+  },
+  {
+    "PlayerID": "NLA - 30",
+    "Name": "Cedric Buri",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 4,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f3f99860191b42caaa764e7ec9e28b69"
+  },
+  {
+    "PlayerID": "NLA - 131",
+    "Name": "Lars Birchmeier",
+    "Team": "Floorball Thurgau",
+    "Games Played": 1,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f5229db9dc2e47ef9ef50949236cc6de"
+  },
+  {
+    "PlayerID": "NLA - 321",
+    "Name": "Yannis Wyss",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 21,
+    "Goals": 15,
+    "Assists": 12,
+    "Points": 27,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f561c79b3d0047a29419e6c0931035a2"
+  },
+  {
+    "PlayerID": "NLA - 111",
+    "Name": "Joél Rüegger",
+    "Team": "Grasshopper Club Zürich",
+    "Games Played": 22,
+    "Goals": 16,
+    "Assists": 13,
+    "Points": 29,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_f572ec4e82c44434b52f6c2947906e7e"
+  },
+  {
+    "PlayerID": "NLA - 100",
+    "Name": "Janis Schwarz",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 21,
+    "Goals": 0,
+    "Assists": 0,
+    "Points": 0,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_fa88761fa9df4968b75132fb79b6c45f"
+  },
+  {
+    "PlayerID": "NLA - 89",
+    "Name": "Jamie Martinjas",
+    "Team": "SV Wiler-Ersigen",
+    "Games Played": 22,
+    "Goals": 6,
+    "Assists": 7,
+    "Points": 13,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_fc407a3ce6a848caaa4ed3a0393805cb"
+  },
+  {
+    "PlayerID": "NLA - 25",
+    "Name": "Arno Althaus",
+    "Team": "Tigers Langnau",
+    "Games Played": 22,
+    "Goals": 1,
+    "Assists": 1,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_fc86fa7a7d4442ea966abdb6ce0423c2"
+  },
+  {
+    "PlayerID": "NLA - 94",
+    "Name": "Jan Zaugg",
+    "Team": "Floorball Köniz Bern",
+    "Games Played": 22,
+    "Goals": 28,
+    "Assists": 13,
+    "Points": 41,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_fcb79f6aee6147a6b9b649f3a200d06e"
+  },
+  {
+    "PlayerID": "NLA - 115",
+    "Name": "Johannes Wilhelmsson",
+    "Team": "UHC Uster",
+    "Games Played": 21,
+    "Goals": 5,
+    "Assists": 26,
+    "Points": 31,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_fccb974c05014fe0bfac4dc479de8bc2"
+  },
+  {
+    "PlayerID": "NLA - 67",
+    "Name": "Fabio Flütsch",
+    "Team": "Zug United",
+    "Games Played": 13,
+    "Goals": 1,
+    "Assists": 1,
+    "Points": 2,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_fcfb4d02834943f5b6f7d512cd9d670e"
+  },
+  {
+    "PlayerID": "NLA - 44",
+    "Name": "Daniel Hernandez",
+    "Team": "Tigers Langnau",
+    "Games Played": 13,
+    "Goals": 5,
+    "Assists": 8,
+    "Points": 13,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_fd066c9f9f754f5d9e6e124a8d770b95"
+  },
+  {
+    "PlayerID": "NLA - 78",
+    "Name": "Gian Mühlemann",
+    "Team": "Tigers Langnau",
+    "Games Played": 18,
+    "Goals": 9,
+    "Assists": 6,
+    "Points": 15,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_fdb7070e3a5b485ab69812bc48929f32"
+  },
+  {
+    "PlayerID": "NLA - 301",
+    "Name": "Tino von Pritzbuer",
+    "Team": "WASA St. Gallen",
+    "Games Played": 21,
+    "Goals": 9,
+    "Assists": 5,
+    "Points": 14,
+    "_id": "ro_ta_14f780eff12d45409c90d4ea3d6eb0ec_ff383f7fb9b64ab39434a4af252cfcea"
+  }
+]
