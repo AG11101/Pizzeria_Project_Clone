@@ -9,6 +9,10 @@ import ch.fhnw.pizza.business.service.PlayerService;
 import ch.fhnw.pizza.business.service.RankingService;
 import ch.fhnw.pizza.business.service.TeamService;
 import io.swagger.v3.oas.annotations.Hidden;
+import jakarta.annotation.PostConstruct;
+
+import ch.fhnw.pizza.data.domain.Team;
+import ch.fhnw.pizza.data.domain.Player;
 
 @SpringBootApplication
 @RestController
@@ -30,5 +34,39 @@ public class PizzaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PizzaApplication.class, args);
+    }
+
+    @PostConstruct
+    private void initPlaceholderData() throws Exception {
+        // Example: create or fetch teams first
+        Team wasa = new Team();
+        wasa.setTeamName("WASA St. Gallen");
+        teamService.addTeam(wasa);
+
+        Team gc = new Team();
+        gc.setTeamName("Grasshopper Club Zürich");
+        teamService.addTeam(gc);
+
+        // Player 1
+        Player player = new Player();
+        player.setPlayerId("NLA - 270");
+        player.setName("Santtu");
+        player.setLastName("Vuoristo");
+        player.setTeam(wasa);
+        player.setGoals(9);
+        player.setAssists(9);
+        playerService.addPlayer(player);
+
+        // Player 2
+        player = new Player();
+        player.setPlayerId("NLA - 195");
+        player.setName("Maxim");
+        player.setLastName("Frei");
+        player.setTeam(gc);
+        player.setGoals(0);
+        player.setAssists(0);
+        playerService.addPlayer(player);
+
+        // Add more players as needed...
     }
 }
