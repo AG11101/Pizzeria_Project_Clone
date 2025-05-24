@@ -35,16 +35,6 @@ public class Player {
     public void setId(Long id) {
         this.id = id;
     }
-// Consider to remove it since there is Long id already
-
-    /*public Long getPlayerId() {
-        return playerId;
-    }
-
-    public void setPlayerId(Long playerId) {
-        this.playerId = playerId;
-    }
-    */
 
     public String getName() {
         return name;
