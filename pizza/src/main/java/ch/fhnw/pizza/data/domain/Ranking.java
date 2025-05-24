@@ -62,4 +62,3 @@ public class Ranking {
         this.points = points;
     }
 }
-
