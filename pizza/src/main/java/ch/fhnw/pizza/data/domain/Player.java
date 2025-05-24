@@ -1,5 +1,7 @@
 package ch.fhnw.pizza.data.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.GeneratedValue;
@@ -22,6 +24,7 @@ public class Player {
 
     @ManyToOne // Many players belong to one team
     @JoinColumn(name = "team_id") // Foreign key column in the Player table
+    @JsonIgnore // Prevents circular references during JSON serialization
     private Team team;
 
     // Getters and Setters
@@ -81,4 +84,3 @@ public class Player {
         this.team = team;
     }
 }
-
