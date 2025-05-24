@@ -19,7 +19,7 @@ public class TeamService {
         return teamRepository.findAll();
     }
 
-    public Team getTeamById(String id) { // Change Long to String
+    public Team getTeamById(Long id) { // Change Long to String
         return teamRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("Team with id " + id + " not found"));
     }
@@ -37,7 +37,7 @@ public class TeamService {
         return teamRepository.save(team);
     }
 
-    public Team updateTeam(String id, Team team) {
+    public Team updateTeam(Long id, Team team) {
         Team existingTeam = getTeamById(id);
 
         if (team.getTeamName() != null) {
@@ -77,7 +77,7 @@ public class TeamService {
         return teamRepository.save(existingTeam);
     }
 
-    public void deleteTeam(String id) { // Change Long to String
+    public void deleteTeam(Long id) { // Change Long to String
         if (teamRepository.existsById(id)) {
             teamRepository.deleteById(id);
         } else {
@@ -85,6 +85,5 @@ public class TeamService {
         }
     }
 }
-
 
 

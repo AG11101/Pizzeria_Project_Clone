@@ -18,7 +18,7 @@ public class LeagueService {
         return leagueRepository.findAll();
     }
 
-    public League getLeagueById(String id) {
+    public League getLeagueById(Long id) {
         return leagueRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("League with id " + id + " not found"));
     }
