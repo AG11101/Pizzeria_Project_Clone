@@ -5,6 +5,7 @@ import org.springframework.stereotype.Repository;
 import ch.fhnw.pizza.data.domain.Team;
 
 @Repository
-public interface TeamRepository extends JpaRepository<Team, String> { // Use String as the primary key type
+public interface TeamRepository extends JpaRepository<Team, Long> {
+    // Optional: Custom method to find by team name
     Team findByTeamName(String teamName);
 }

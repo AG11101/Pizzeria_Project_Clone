@@ -21,7 +21,7 @@ public class LeagueController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<League> getLeagueById(@PathVariable String id) {
+    public ResponseEntity<League> getLeagueById(@PathVariable Long id) {
         return ResponseEntity.ok(leagueService.getLeagueById(id));
     }
 
@@ -31,12 +31,12 @@ public class LeagueController {
     }
 
     @PutMapping("/{id}")
-    public ResponseEntity<League> updateLeague(@PathVariable String id, @RequestBody League league) {
+    public ResponseEntity<League> updateLeague(@PathVariable Long id, @RequestBody League league) {
         return ResponseEntity.ok(leagueService.updateLeague(id, league));
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deleteLeague(@PathVariable String id) {
+    public ResponseEntity<Void> deleteLeague(@PathVariable Long id) {
         leagueService.deleteLeague(id);
         return ResponseEntity.noContent().build();
     }

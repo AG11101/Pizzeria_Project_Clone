@@ -9,11 +9,11 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 public class Team {
 
     @Id
+    /*
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id; // Auto-generated primary key
-    
-    private String teamName; // Primary key
-
+    */
+    private Long teamId; // Auto-generated primary key
+    private String teamName; 
     private int totalPoints;
     private int gamesPlayed;
     private int wins;
@@ -36,11 +36,11 @@ public class Team {
     // Getters and Setters
  
     public Long getId() {
-        return id;
+        return teamId;
     }
 
     public void setId(Long id) {
-        this.id = id;
+        this.teamId = id;
     }
 
     public String getTeamName() {

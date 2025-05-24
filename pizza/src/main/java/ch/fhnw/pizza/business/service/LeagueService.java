@@ -27,7 +27,7 @@ public class LeagueService {
         return leagueRepository.save(league);
     }
 
-    public League updateLeague(String id, League league) {
+    public League updateLeague(Long id, League league) {
         League existingLeague = getLeagueById(id);
         if (league.getName() != null) {
             existingLeague.setName(league.getName());
@@ -36,7 +36,7 @@ public class LeagueService {
         return leagueRepository.save(existingLeague);
     }
 
-    public void deleteLeague(String id) {
+    public void deleteLeague(Long id) {
         if (leagueRepository.existsById(id)) {
             leagueRepository.deleteById(id);
         } else {

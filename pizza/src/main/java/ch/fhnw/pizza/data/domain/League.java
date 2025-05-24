@@ -8,11 +8,8 @@ public class League {
 
      @Id // Marks this field as the primary key
     @GeneratedValue(strategy = GenerationType.IDENTITY) // Auto-generates the primary key
-    private Long id; // Primary key for the Player entity
-
-    
+    private Long id; 
     private String name; // This is the property being queried
-
     private String country; // Country where the league is located
 
     @OneToMany(mappedBy = "league", cascade = CascadeType.ALL, orphanRemoval = true)

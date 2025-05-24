@@ -16,7 +16,7 @@ public class Player {
     @GeneratedValue(strategy = GenerationType.IDENTITY) // Auto-generates the primary key
     private Long id; // Primary key for the Player entity
 
-    private String playerId; // Unique identifier for the player (business logic)
+    //private String playerId; // Unique identifier for the player (business logic)
     private String name; // Player's name
     private String lastName; // Player's last name
     private int goals; // Number of goals scored by the player
@@ -35,14 +35,16 @@ public class Player {
     public void setId(Long id) {
         this.id = id;
     }
+// Consider to remove it since there is Long id already
 
-    public String getPlayerId() {
+    /*public Long getPlayerId() {
         return playerId;
     }
 
-    public void setPlayerId(String playerId) {
+    public void setPlayerId(Long playerId) {
         this.playerId = playerId;
     }
+    */
 
     public String getName() {
         return name;
