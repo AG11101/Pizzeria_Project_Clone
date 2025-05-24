@@ -3,10 +3,15 @@ package ch.fhnw.pizza.data.domain;
 import jakarta.persistence.*;
 import java.util.List;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 @Entity
 public class Team {
 
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id; // Auto-generated primary key
+    
     private String teamName; // Primary key
 
     private int totalPoints;
@@ -17,15 +22,27 @@ public class Team {
     private int lossesAfterExtraTime;
     private int goalsScored;
     private int goalsConceded;
+    private int goalStatistic;
 
     @OneToMany(mappedBy = "team", cascade = CascadeType.ALL, orphanRemoval = true)
+    @JsonIgnore     // Prevents circular references during JSON serialization
     private List<Player> players; // A team has many players
 
     @ManyToOne
     @JoinColumn(name = "league_id") // Foreign key column in the Team table
+    @JsonIgnore   // Prevents circular references during JSON serialization     
     private League league; // A team belongs to one league
 
     // Getters and Setters
+ 
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
     public String getTeamName() {
         return teamName;
     }
@@ -113,5 +130,12 @@ public class Team {
     public void setLeague(League league) {
         this.league = league;
     }
+
+    public void setGoalStatistic(int goalStatistic) {
+        this.goalsScored = goalStatistic;
+    }
+    public int getGoalStatistic() {
+        return goalsScored - goalsConceded;
+    }    
 }
 
