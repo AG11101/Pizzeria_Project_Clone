@@ -22,7 +22,7 @@ public class TeamController {
 
     @GetMapping("/{id}")
     public ResponseEntity<Team> getTeamById(@PathVariable Long id) {
-        return ResponseEntity.ok(teamService.getTeamById(id.toString()));
+        return ResponseEntity.ok(teamService.getTeamById(id));
     }
 
     @PostMapping
@@ -32,12 +32,12 @@ public class TeamController {
 
     @PutMapping("/{id}")
     public ResponseEntity<Team> updateTeam(@PathVariable Long id, @RequestBody Team team) {
-        return ResponseEntity.ok(teamService.updateTeam(id.toString(), team));
+        return ResponseEntity.ok(teamService.updateTeam(id, team));
     }
 
     @DeleteMapping("/{id}")
     public ResponseEntity<Void> deleteTeam(@PathVariable Long id) {
-        teamService.deleteTeam(id.toString());
+        teamService.deleteTeam(id);
         return ResponseEntity.noContent().build();
     }
 }
