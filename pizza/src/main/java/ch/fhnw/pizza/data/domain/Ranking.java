@@ -1,5 +1,7 @@
 package ch.fhnw.pizza.data.domain;
 
+import com.fasterxml.jackson.annotation.JsonManagedReference;
+
 import jakarta.persistence.*;
 
 @Entity
@@ -13,6 +15,7 @@ public class Ranking {
 
     @ManyToOne
     @JoinColumn(name = "team_id") // Foreign key column in the Ranking table
+    @JsonManagedReference // Prevents circular references during JSON serialization
     private Team team;
 
     @ManyToOne

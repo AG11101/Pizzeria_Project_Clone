@@ -15,10 +15,17 @@ public class RankingController {
     @Autowired
     private RankingService rankingService;
 
-    @GetMapping
-    public List<Ranking> getAllRankings() {
-        return rankingService.getAllRankings();
+    // ...existing code...
+@GetMapping
+public List<Ranking> getAllRankings(@RequestParam(required = false) String jsonPath) {
+    if (jsonPath != null) {
+        // Rankings immer neu berechnen, wenn jsonPath übergeben wurde
+        return rankingService.calculateAndUpdateRankingsFromJson(jsonPath);
     }
+    // Ansonsten Rankings aus der DB zurückgeben
+    return rankingService.getAllRankings();
+}
+// ...existing code...
 
     @GetMapping("/{id}")
     public ResponseEntity<Ranking> getRankingById(@PathVariable Long id) {
@@ -40,4 +47,9 @@ public class RankingController {
         rankingService.deleteRanking(id);
         return ResponseEntity.noContent().build();
     }
+
+    @GetMapping("/calculate")
+    public List<Ranking> calculateRankingsFromDb() {
+    return rankingService.calculateAndUpdateRankingsFromDbTeams();
+}
 }

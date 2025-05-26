@@ -3,6 +3,7 @@ package ch.fhnw.pizza.data.domain;
 import jakarta.persistence.*;
 import java.util.List;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
 @Entity
@@ -27,6 +28,12 @@ public class Team {
     @OneToMany(mappedBy = "team", cascade = CascadeType.ALL, orphanRemoval = true)
     @JsonIgnore     // Prevents circular references during JSON serialization
     private List<Player> players; // A team has many players
+
+    
+    @OneToMany(mappedBy = "team")
+    @JsonBackReference
+    private List<Ranking> rankings;
+    
 
     @ManyToOne
     @JoinColumn(name = "league_id") // Foreign key column in the Team table
