@@ -229,8 +229,8 @@ public class PizzaApplication {
         player.setName("Maxim");
         player.setLastName("Frei");
         player.setTeam(gc);
-        player.setGoals(0);
-        player.setAssists(0);
+        player.setGoals(5);
+        player.setAssists(2);
         playerService.addPlayer(player);
 
         League nla = new League();
