@@ -45,14 +45,12 @@ Use Case 100:
 Shows the users available actions for the home page
 ![Team Logo](https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-100.jpg)
 
-
-
 Use Case 200:
+Shows the users available actions for the player page
 ![Team Logo](https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-200.jpg)
 
-
-
 Use Case 300:
+Shows the users available actions for the League page
 ![Team Logo](https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-300.jpg)
 
 ## Design
