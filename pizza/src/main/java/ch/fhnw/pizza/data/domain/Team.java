@@ -31,7 +31,6 @@ public class Team {
 
     
     @OneToMany(mappedBy = "team")
-    @JsonBackReference
     private List<Ranking> rankings;
     
 
