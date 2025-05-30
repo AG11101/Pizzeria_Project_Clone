@@ -1,10 +1,8 @@
-# Pizzeria Reference Project (PizzaRP)
+# Floorball_Statistics_Project 
 
-This is a minimal Pizzeria Reference Project (PizzaRP) as a template for students. 
 
 [![License](https://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-> 🚧: **This is a template project**: Make sure you adapt this documentation and the source code in this project according to your needs and use case. Comments are provided with "🚧:". Do not leave these comments in your final submission!
 
 #### Contents:
 - [Analysis](#analysis)
@@ -23,26 +21,24 @@ This is a minimal Pizzeria Reference Project (PizzaRP) as a template for student
   - [Milestones](#milestones)
 
 ## Analysis
-> 🚧: You can reuse the analysis (you made) from other projects (e.g., requirement engineering), but it must be submitted according to the following template. 
-
-
 
 ### Scenario
 
-PizzaRP (Pizzeria Reference Project) is the smallest possible and lightweight demonstration tool allowing the pizzaiolo (Role: Admin) to manage its pizza catalog. 
+The Floorball-Statistics project is about displaying information about the Swiss floorball league. 
+Our main goal with this web application, is to display all the relevant stats of teams and players, 
+which are needed for teams to prepare for their upcoming games. 
 
 ### User Stories
-1. As an Admin, I want to have a Web app to use on different mobile devices and desktop computers.
-2. As an Admin, I want to see a consistent visual appearance to navigate easily, and it should look consistent.
-3. As an Admin, I want to use list views to explore and read my business data.
-4. As an Admin, I want to use edit and create views to maintain my business data.
-5. As an Admin, I want to log-in so that I can authenticate myself.
-6. As a User, I want to use list views so that I can access public pages.
-7. (Optional) As a User, I want to authenticate myself so that I can read my personal and confidential data.
+- As a user, I want to view the player stats.
+- As a user I want to see the players ranked by league.
+- As a user, I want to see the teams.
+- As a user, I want to be able to filter the data.
+- As an Admin, I want to edit and manage the various data.
+- As an Admin, I want the website layout to be structured and easy to follow.
+- As an Admin I want the website to be accessible by various devices and ensure compatibility.
 
 ### Use Case
 
-![](images/use-case.png)
 
 - UC-1 [Show all the Pizza]: Admin can retrieve all the pizza on the menu
 - UC-2 [Show a Pizza]: Admin can retrieve the information on a specific pizza.
