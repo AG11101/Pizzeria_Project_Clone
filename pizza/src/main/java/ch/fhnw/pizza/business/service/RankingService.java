@@ -12,9 +12,9 @@ import ch.fhnw.pizza.data.domain.Team;
 import ch.fhnw.pizza.data.repository.RankingRepository;
 
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.nio.file.Paths;
 import java.util.Comparator;
 
 @Service
@@ -54,7 +54,7 @@ public class RankingService {
         }
     try {
         ObjectMapper mapper = new ObjectMapper();
-        Team[] teams = mapper.readValue(Files.readAllBytes(Paths.get(jsonPath)), Team[].class);
+        Team[] teams = mapper.readValue(Files.readAllBytes(Path.of(jsonPath)), Team[].class);
 
         // Rankings berechnen
         List<Ranking> rankings = new java.util.ArrayList<>();
