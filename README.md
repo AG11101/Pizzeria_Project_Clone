@@ -42,7 +42,9 @@ which are needed for teams to prepare for their upcoming games.
 
 Use Case 100:
 Shows the users available actions for the home page
-https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-100.jpg
+![Team Logo](https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-100.jpg)
+
+
 
 
 - UC-2 [Show a Pizza]: Admin can retrieve the information on a specific pizza.
