@@ -41,15 +41,19 @@ which are needed for teams to prepare for their upcoming games.
 
 
 Use Case 100:
+
 Shows the users available actions for the home page
 ![Team Logo](https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-100.jpg)
 
 
 
+Use Case 200:
+![Team Logo](https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-200.jpg)
 
-- UC-2 [Show a Pizza]: Admin can retrieve the information on a specific pizza.
-- UC-3 [Edit a Pizza]: Admin can create, update, and delete pizzas from the menu.
-- UC-4 [Show Current Location Offer]: User can retrieve special menu by location
+
+
+Use Case 300:
+![Team Logo](https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-300.jpg)
 
 ## Design
 > 🚧: Keep in mind the Corporate Identity (CI); you shall decide appropriately the color schema, graphics, typography, layout, User Experience (UX), and so on.
