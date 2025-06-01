@@ -72,6 +72,8 @@ The layout is consistent across apges and follows a clear hierarchy for users an
 The following wireframes define the structure and layout of the three views: Home, Player and League. 
 Each wireframe outlines the major UI elements such as filters, search bar, data tables and navigation bar.
 
+![Wireframe Design](./Wireframe.png)
+
 ### Prototype
 > 🚧: A prototype can be designed using placeholder text/figures in Budibase. You don't need to connect the front-end to back-end in the early stages of the project development.
 
