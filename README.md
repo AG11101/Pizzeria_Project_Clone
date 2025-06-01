@@ -90,7 +90,7 @@ The domain model is implemented using JPA entities in the package `ch.fhnw.pizza
 
 We modeled the core entities based on a real-worlds floorball league structure. The relationships between **Player**, **Team**, **League** and **Ranking** follow standard realtional logic.
 
-![](images/domain-model.png)
+![Domain Model](./Domain%20Design.png)
 
 ### Entities 
 
