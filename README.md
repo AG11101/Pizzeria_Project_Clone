@@ -94,12 +94,12 @@ We modeled the core entities based on a real-worlds floorball league structure. 
 
 ### Entities 
 
-- Player: hast attributes like name, last name, goasl, assists and is linked to one team
+- Player: hast attributes like name, last name, goals, assists and is linked to one team
 - Team: contains a list of players and is linked to a league
 - League: includes multiple teams and defines the league structure
 - Ranking: links teams and leagues with ranking data such as total points and position
 
-The realtionships are: 
+The relationships are: 
 - One **Team** to Many **Players**
 - One **League** to Many **Teams**
 - One **Team** to Many **Rankings**
@@ -137,14 +137,14 @@ This service provides full CRUD operations for `Player` objects, including logic
 
 ### Example: Update Logic
 
-java 
+`java 
 if (player.getName() != null) {
 	existingPlayer.setName(player.getName());
 }
 if (player.getGoals() != 0) {
 	existingPlayer.setGoals(player.getGoals());
 }
-
+`
 ## Implementation
 > 🚧: Briefly describe your technology stack, which apps were used and for what.
 
@@ -213,7 +213,7 @@ The frontend was created using Budibase. It follows a modular structure based on
 - **League Page (Use Case 300)**
   The league view shows rankings and team performance statistics.
   Users can:
-  - View and fitler rankings
+  - View and filter rankings
   - Navigate back to home or Player pages
   Admins can:
   - Add, alter or delete rankings, teams and leagues
