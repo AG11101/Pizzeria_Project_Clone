@@ -138,7 +138,7 @@ public class Team {
     }
 
     public void setGoalStatistic(int goalStatistic) {
-        this.goalsScored = goalStatistic;
+        this.goalStatistic = goalStatistic;
     }
     public int getGoalStatistic() {
         return goalsScored - goalsConceded;
