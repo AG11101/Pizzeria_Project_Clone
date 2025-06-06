@@ -26,18 +26,20 @@ public class PlayerController {
     }
 
     @PostMapping
-    public ResponseEntity<Player> addPlayer(@RequestBody Player player) {
-        return ResponseEntity.ok(playerService.addPlayer(player));
+    public ResponseEntity<?> addPlayer(@RequestBody Player player) {
+        Player savedPlayer = playerService.addPlayer(player);
+        return ResponseEntity.ok(java.util.Collections.singletonMap("Added Team with ID:", savedPlayer.getId()));
     }
 
     @PutMapping("/{id}")
-    public ResponseEntity<Player> updatePlayer(@PathVariable Long id, @RequestBody Player player) {
-        return ResponseEntity.ok(playerService.updatePlayer(id, player));
+    public ResponseEntity<?> updatePlayer(@PathVariable Long id, @RequestBody Player player) {
+        Player updatedPlayer = playerService.updatePlayer(id, player);
+        return ResponseEntity.ok(java.util.Collections.singletonMap("Updated Player with ID:", updatedPlayer.getId()));
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deletePlayer(@PathVariable Long id) {
+    public ResponseEntity<?> deletePlayer(@PathVariable Long id) {
         playerService.deletePlayer(id);
-        return ResponseEntity.noContent().build();
+        return ResponseEntity.ok(java.util.Collections.singletonMap("deletedId", id));
     }
 }

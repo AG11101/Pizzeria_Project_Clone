@@ -26,18 +26,20 @@ public class TeamController {
     }
 
     @PostMapping
-    public ResponseEntity<Team> addTeam(@RequestBody Team team) {
-        return ResponseEntity.ok(teamService.addTeam(team));
+    public ResponseEntity<?> addTeam(@RequestBody Team team) {
+        Team savedTeam = teamService.addTeam(team);
+        return ResponseEntity.ok(java.util.Collections.singletonMap("Added a Team with ID:", savedTeam.getId()));
     }
 
     @PutMapping("/{id}")
-    public ResponseEntity<Team> updateTeam(@PathVariable Long id, @RequestBody Team team) {
-        return ResponseEntity.ok(teamService.updateTeam(id, team));
+    public ResponseEntity<?> updateTeam(@PathVariable Long id, @RequestBody Team team) {
+        Team updatedTeam = teamService.updateTeam(id, team);
+        return ResponseEntity.ok(java.util.Collections.singletonMap("Updated Team with ID:", updatedTeam.getId()));
     }
 
     @DeleteMapping("/{id}")
-    public ResponseEntity<Void> deleteTeam(@PathVariable Long id) {
+    public ResponseEntity<?> deleteTeam(@PathVariable Long id) {
         teamService.deleteTeam(id);
-        return ResponseEntity.noContent().build();
+        return ResponseEntity.ok(java.util.Collections.singletonMap("deletedId", id));
     }
 }
