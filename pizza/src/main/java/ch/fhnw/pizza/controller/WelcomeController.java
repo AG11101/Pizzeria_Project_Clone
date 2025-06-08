@@ -16,17 +16,21 @@ public class WelcomeController {
     public String getWelcomeString() {
         return "Wela Wela!";
     }
-    @GetMapping(value="/user")
-    public String getUserRole(Authentication auth) {
+    @GetMapping(value="/user", produces = "application/json")
+    public java.util.Map<String, String> getUserRole(Authentication auth) {
+        String role;
         if (auth == null || !(auth.getPrincipal() instanceof UserDetails)) {
-            return "NO_AUTH";
-        }
-        UserDetails userDetails = (UserDetails) auth.getPrincipal();
-        Object[] authorities = userDetails.getAuthorities().toArray();
-        if (authorities.length > 0) {
-            return authorities[0].toString();
+            role = "NO_AUTH";
         } else {
-            return "NO_ROLE";
+            UserDetails userDetails = (UserDetails) auth.getPrincipal();
+            Object[] authorities = userDetails.getAuthorities().toArray();
+            if (authorities.length > 0) {
+                role = authorities[0].toString();
+            } else {
+                role = "NO_ROLE";
+            }
         }
+        // Return as JSON object → Budibase will parse it!
+        return java.util.Map.of("value", role);
     }
 }
