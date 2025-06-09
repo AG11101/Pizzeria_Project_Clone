@@ -2,9 +2,6 @@ package ch.fhnw.pizza.business.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import ch.fhnw.pizza.data.domain.Ranking;
@@ -44,9 +41,6 @@ public class RankingService {
         // Update other fields as needed
         return rankingRepository.save(existingRanking);
     }
-
-    // pulls data from a JSON file
-    private String jsonPath = "/api/rankings?jsonPath=/workspaces/Pizzeria_Project_Clone/pizza/src/main/resources/JSON NLA.json";
 
     public List<Ranking> calculateAndUpdateRankingsFromJson(String jsonPath) {
         if (jsonPath == null || jsonPath.isEmpty()) {

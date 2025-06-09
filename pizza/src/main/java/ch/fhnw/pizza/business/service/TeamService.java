@@ -7,7 +7,6 @@ import ch.fhnw.pizza.data.domain.Team;
 import ch.fhnw.pizza.data.repository.TeamRepository;
 
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class TeamService {

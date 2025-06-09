@@ -14,7 +14,6 @@ import jakarta.annotation.PostConstruct;
 import ch.fhnw.pizza.data.domain.Team;
 import ch.fhnw.pizza.data.domain.League;
 import ch.fhnw.pizza.data.domain.Player;
-import ch.fhnw.pizza.data.domain.Ranking;
 
 @SpringBootApplication
 @RestController
@@ -26,13 +25,11 @@ public class PizzaApplication {
     // Autowire other services here
     private final LeagueService leagueService;
     private final PlayerService playerService;
-    private final RankingService rankingService;
     private final TeamService teamService;
 
     public PizzaApplication(LeagueService leagueService, PlayerService playerService, RankingService rankingService, TeamService teamService) {
         this.leagueService = leagueService;
         this.playerService = playerService;
-        this.rankingService = rankingService;
         this.teamService = teamService;
     }
 
@@ -221,6 +218,7 @@ public class PizzaApplication {
         player.setTeam(wasa);
         player.setGoals(9);
         player.setAssists(9);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
  
         // Player 2
@@ -231,6 +229,7 @@ public class PizzaApplication {
         player.setTeam(gc);
         player.setGoals(5);
         player.setAssists(2);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         // Player 3
@@ -241,6 +240,7 @@ public class PizzaApplication {
         player.setTeam(wiler);
         player.setGoals(12);
         player.setAssists(15);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         // Player 4
@@ -251,6 +251,7 @@ public class PizzaApplication {
         player.setTeam(zug);
         player.setGoals(20);
         player.setAssists(8);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         // Player 5
@@ -261,6 +262,7 @@ public class PizzaApplication {
         player.setTeam(koeniz);
         player.setGoals(7);
         player.setAssists(11);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         // Player 6
@@ -271,6 +273,7 @@ public class PizzaApplication {
         player.setTeam(tigers);
         player.setGoals(14);
         player.setAssists(10);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         // Player 7
@@ -281,6 +284,7 @@ public class PizzaApplication {
         player.setTeam(uster);
         player.setGoals(9);
         player.setAssists(13);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         // Player 8
@@ -291,6 +295,7 @@ public class PizzaApplication {
         player.setTeam(alligator);
         player.setGoals(6);
         player.setAssists(7);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         // Player 9
@@ -301,6 +306,7 @@ public class PizzaApplication {
         player.setTeam(chur);
         player.setGoals(11);
         player.setAssists(5);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         // Player 10
@@ -311,6 +317,7 @@ public class PizzaApplication {
         player.setTeam(rychenberg);
         player.setGoals(8);
         player.setAssists(12);
+        player.updateTotalPoints();
         playerService.addPlayer(player);
 
         League nla = new League();
