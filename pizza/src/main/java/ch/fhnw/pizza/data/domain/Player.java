@@ -21,7 +21,6 @@ public class Player {
     private String lastName; // Player's last name
     private int goals; // Number of goals scored by the player
     private int assists; // Number of assists by the player
-    private int totalPoints; // Total points scored by the player
 
     @ManyToOne // Many players belong to one team
     @JoinColumn(name = "team_id") // Foreign key column in the Player table
@@ -78,10 +77,10 @@ public class Player {
     }
 
     public int getTotalPoints() {
-        return totalPoints;
+        return goals + assists;
     }
 
-    public void updateTotalPoints() {
-        this.totalPoints = this.goals + this.assists;
+    public void setTotalPoints(int totalPoints) {
+        // Intentionally left blank to match the style of setGoalStatistic
     }
 }
