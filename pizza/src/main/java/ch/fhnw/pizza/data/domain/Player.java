@@ -76,11 +76,13 @@ public class Player {
         this.team = team;
     }
 
+    public void setTotalPoints(int totalPoints) {
+        // Intentionally left blank to match the style of setGoalStatistic
+    }
+
     public int getTotalPoints() {
         return goals + assists;
     }
 
-    public void setTotalPoints(int totalPoints) {
-        // Intentionally left blank to match the style of setGoalStatistic
-    }
+    
 }
