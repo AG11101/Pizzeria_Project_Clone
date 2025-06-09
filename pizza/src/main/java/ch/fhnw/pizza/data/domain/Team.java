@@ -14,7 +14,6 @@ public class Team {
     */
     private Long teamId; // Auto-generated primary key
     private String teamName; 
-    private int gamesPlayed;
     private int wins;
     private int losses;
     private int winsAfterExtraTime;
@@ -62,11 +61,11 @@ public class Team {
     }
 
     public int getGamesPlayed() {
-        return gamesPlayed;
+        return wins + losses + winsAfterExtraTime + lossesAfterExtraTime;
     }
 
     public void setGamesPlayed(int gamesPlayed) {
-        this.gamesPlayed = gamesPlayed;
+        // Intentionally left blank to match the style of setGoalStatistic
     }
 
     public int getWins() {
