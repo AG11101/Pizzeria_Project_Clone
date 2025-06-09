@@ -233,6 +233,86 @@ public class PizzaApplication {
         player.setAssists(2);
         playerService.addPlayer(player);
 
+        // Player 3
+        player = new Player();
+        player.setId(3L);
+        player.setName("Luca");
+        player.setLastName("Müller");
+        player.setTeam(wiler);
+        player.setGoals(12);
+        player.setAssists(15);
+        playerService.addPlayer(player);
+
+        // Player 4
+        player = new Player();
+        player.setId(4L);
+        player.setName("Jonas");
+        player.setLastName("Keller");
+        player.setTeam(zug);
+        player.setGoals(20);
+        player.setAssists(8);
+        playerService.addPlayer(player);
+
+        // Player 5
+        player = new Player();
+        player.setId(5L);
+        player.setName("Fabio");
+        player.setLastName("Schmid");
+        player.setTeam(koeniz);
+        player.setGoals(7);
+        player.setAssists(11);
+        playerService.addPlayer(player);
+
+        // Player 6
+        player = new Player();
+        player.setId(6L);
+        player.setName("Simon");
+        player.setLastName("Baumgartner");
+        player.setTeam(tigers);
+        player.setGoals(14);
+        player.setAssists(10);
+        playerService.addPlayer(player);
+
+        // Player 7
+        player = new Player();
+        player.setId(7L);
+        player.setName("Noah");
+        player.setLastName("Meier");
+        player.setTeam(uster);
+        player.setGoals(9);
+        player.setAssists(13);
+        playerService.addPlayer(player);
+
+        // Player 8
+        player = new Player();
+        player.setId(8L);
+        player.setName("David");
+        player.setLastName("Weber");
+        player.setTeam(alligator);
+        player.setGoals(6);
+        player.setAssists(7);
+        playerService.addPlayer(player);
+
+        // Player 9
+        player = new Player();
+        player.setId(9L);
+        player.setName("Samuel");
+        player.setLastName("Fischer");
+        player.setTeam(chur);
+        player.setGoals(11);
+        player.setAssists(5);
+        playerService.addPlayer(player);
+
+        // Player 10
+        player = new Player();
+        player.setId(10L);
+        player.setName("Tim");
+        player.setLastName("Brunner");
+        player.setTeam(rychenberg);
+        player.setGoals(8);
+        player.setAssists(12);
+        playerService.addPlayer(player);
+
         League nla = new League();
         nla.setLeagueId(31L);
         nla.setName("NLA");
