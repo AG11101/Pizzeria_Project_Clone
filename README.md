@@ -284,33 +284,15 @@ To run the full-stack application, follow these steps:
 
 #### Frontend (Budibase) Setup
 
-https://inttech.budibase.app/app/brugg_4_floorball_statistics#/home
-
-
-
-
-
-1. **Access Budibase**  
-   Log in at [https://inttech.budibase.app](https://inttech.budibase.app)
-
-2. **Create Your App**  
-   - Either import the existing Pizzeria app or start a new app.
-   - Connect your app’s Data Source to your Spring Boot backend URL.
-
-3. **Update Data Source URL**  
-   If your backend is running on a different public URL (e.g. from Codespaces), update it in:
-   - `Data > External Data Sources > Your API > Base URL`
-
-4. **Publish the App**  
-   Click **Publish** in Budibase to deploy your app and test the live connection.
+Link to budibase App: https://inttech.budibase.app/app/brugg_4_floorball_statistics#/home
 
 
 ## Project Management
-> 🚧: Include all the participants and briefly describe each of their **individual** contribution and/or roles. Screenshots/descriptions of your Kanban board or similar project management tools are welcome.
+
 
 ### Roles
-- Back-end developer: Charuta Pande 
-- Front-end developer: Devid Montecchiari
+- Back-end developer: Alessandro Gianoli, Jetmir Sylejmani, Sascha Niederhauser
+- Front-end developer: Jan Suter
 
 ### Milestones
 1. **Analysis**: Scenario ideation, use case analysis and user story writing.
@@ -321,10 +303,3 @@ https://inttech.budibase.app/app/brugg_4_floorball_statistics#/home
 6. **Security and Frontend Implementation**: Integration of security framework and frontend realisation.
 7. (optional) **Deployment**: Deployment of Web application on cloud infrastructure.
 
-
-#### Maintainer
-- Charuta Pande
-- Devid Montecchiari
-
-#### License
-- [Apache License, Version 2.0](blob/master/LICENSE)
