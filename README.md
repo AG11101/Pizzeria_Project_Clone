@@ -55,7 +55,6 @@ Shows the users available actions for the League page
 ![Team Logo](https://github.com/AG11101/Pizzeria_Project_Clone/blob/main/UC-300.jpg)
 
 ## Design
-> 🚧: Keep in mind the Corporate Identity (CI); you shall decide appropriately the color schema, graphics, typography, layout, User Experience (UX), and so on.
 
 Our frontend is designed with usability and clarity in mind. We follow a minimalist layout that supports: 
 
@@ -64,10 +63,11 @@ Our frontend is designed with usability and clarity in mind. We follow a minimal
 - responsive table components
 - Input fields for filtering and search
 
-The layout is consistent across apges and follows a clear hierarchy for users and admins.
+The layout is consistent across screens and follows a clear hierarchy for users and admins.
+
+The general idea of the design was to have the first few screens be accessible for everyone with the main focus on the data display. All other screens are only accessible to the admins on which a bit more administrative tasks can be done.
 
 ### Wireframe
-> 🚧: It is suggested to start with a wireframe. The wireframe focuses on the website structure (Sitemap planning), sketching the pages using Wireframe components (e.g., header, menu, footer) and UX. You can create a wireframe already with draw.io or similar tools.
 
 The following wireframes define the structure and layout of the three views: Home, Player and League. 
 Each wireframe outlines the major UI elements such as filters, search bar, data tables and navigation bar.
@@ -75,16 +75,15 @@ Each wireframe outlines the major UI elements such as filters, search bar, data 
 ![Wireframe Design](./Wireframe.png)
 
 ### Prototype
-> 🚧: A prototype can be designed using placeholder text/figures in Budibase. You don't need to connect the front-end to back-end in the early stages of the project development.
 
-The interactive prototype form Budibase simulates core functionality like: 
+A geral prototype was never really made and documented because in the view of the developers the created wireframe gave enough of a vision how the frontend should also look like. Still these points were discussed and written down as attributes the frontend should definitely have:
 
-- Navigating between home, player and league pages
+- Being able to navigate between home, player, league and login screen
 - Displaying and sorting data in tables
 - Using filters and search to dynamically refine results
+- After getting access to the dashboard screen, being able to delete, edit and create more data for players and teams to be able to display in the tables
 
 ### Domain Design
-> 🚧: Provide a picture and describe your domain model; you may use Entity-Relationship Model or UML class diagram. Both can be created in Visual Paradigm - we have an academic license for it.
 
 The domain model is implemented using JPA entities in the package `ch.fhnw.pizza.data.domain`.
 
@@ -187,42 +186,80 @@ Then, the following further dependencies have been added to the project `pom.xml
 ```
 
 ### Frontend Technology
-> 🚧: Describe your views and what APIs is used on which view. If you don't have access to the Internet Technology class Budibase environment(https://inttech.budibase.app/), please write to Devid on MS teams.
+The frontend was created using Budibase. It follows a modular structure:
 
-The frontend was created using Budibase. It follows a modular structure based on three main pages: 
-
-- **Home Page (Use Case 100)**
-  The homepage allows users to:
-  - Search for teams or players
-  - Navigate to the Player View and League View using UI buttons
-
- - **Player Page (Use Case 200)**
-   The player page view presents a table listing all players and their statistics.
-   Users can:
-   - Filter and sort statistics
-   - Search for specific players
-   Admins can
-   - Add, alter or delete player data via the connected backend API
-
-   APIs used:
-   - `GET /api/players`
-   - `POST /api/players`
-   - `PUT /api/players/{id}`
-   - `DELETE /api/player/{id}`
-
-- **League Page (Use Case 300)**
-  The league view shows rankings and team performance statistics.
+- **Home Screen (Use Case 100)**
+  The home screen displays only the top ten players according to the total points they have.
   Users can:
-  - View and filter rankings
-  - Navigate back to home or Player pages
+  - View table
+  - Sort table according to each attribute (either descending or ascending)
+  - Navigate to all other screens
   Admins can:
-  - Add, alter or delete rankings, teams and leagues
+  - Same as Users
 
   APIs used:
-  - `GET /api/leagues`
-  - `GET /api/rankings`
+  - `GET /api/players`
+
+
+  - **League Rankings Screen (Use Case 300)**
+  The league view shows rankings and team performance statistics of the entire league.
+  Users can:
+  - View table
+  - Sort table according to each attribute (either descending or ascending)
+  - Navigate to all other screens
+  Admins can:
+  - Same as Users
+  
+  APIs used:
   - `GET /api/teams`
-  - and the corresponding `POST`, `PUT`, `DELETE` endpoints
+
+
+ - **Player Stats Screen (Use Case 200)**
+   The player stats screen view presents a table listing all players and their statistics.
+   Users can:
+   - Sort table according to each attribute (either descending or ascending)
+   - Search for specific players with text fields "name" and "lastName"
+   - Navigate to all other screens
+   Admins can:
+   - Same as Users
+
+   APIs used:
+  - `GET /api/players`
+
+
+- **Login Screen**
+  The login screen displays the login for the admins so certain tasks can be done in the dashboard screen after a successful login. If the login is successful the other components in the dashboard are able to be accessed, if not successful a message will pop up.
+  Users can:
+  - Try to login using the fields Username and Password
+  - Navigate to all other screens
+  Admins can:
+  - Same as Users 
+  - In addition: Able to login as admins when using Username: **myadmin** and Password:**1234567**
+  - Navigate to dashboard screen with visible fields for actions
+ 
+  APIs used:
+  - `GET /user`
+
+
+- **Dashboard Screen (includes Use Cases 102, 202 and 302)**
+  The dashboard screen is the place where most of the actions are able to be made as a admin.
+  Users can:
+  - Aren't able to do anything
+  - Navigate to all other screens
+  Admins can:
+  - Create, delete and edit players
+  - Create, delete and edit teams
+  - Logout of the dashboard by pressing a button
+  - Navigate to all other screens
+
+  APIs used:
+  - `POST /api/teams`
+  - `DELETE /api/teams/{{id}}`
+  - `PUT /api/teams/{{id}}`
+  - `POST /api/players`
+  - `DELETE /api/players/{{id}}`
+  - `PUT /api/players/{{id}}`
+
 
 ## Execution
 > 🚧: Please describe how to execute your app and what configurations must be changed to run it. 
@@ -247,6 +284,12 @@ To run the full-stack application, follow these steps:
 
 #### Frontend (Budibase) Setup
 
+https://inttech.budibase.app/app/brugg_4_floorball_statistics#/home
+
+
+
+
+
 1. **Access Budibase**  
    Log in at [https://inttech.budibase.app](https://inttech.budibase.app)
 
@@ -261,21 +304,6 @@ To run the full-stack application, follow these steps:
 4. **Publish the App**  
    Click **Publish** in Budibase to deploy your app and test the live connection.
 
-### Deployment to a PaaS
-> 🚧: Deployment to PaaS is optional but recommended as it will make your application (backend) accessible without server restart and through a unique, constantly available link.  
-
-Alternatively, you can deploy your application to a free PaaS like [Render](https://dashboard.render.com/register).
-1. Refer to the Dockerfile inside the application root (FHNW-INT/Pizzeria_Reference_Project/pizza).
-2. Adapt line 13 to the name of your jar file. The jar name should be derived from the details in the pom.xml as follows:<br>
-`{artifactId}-{version}.jar` 
-2. Login to Render using your GitHub credentials.
-3. Create a new Web Service and choose Build and deploy from a Git repository.
-4. Enter the link to your (public) GitHub repository and click Continue.
-5. Enter the Root Directory (name of the folder where pom.xml resides).
-6. Choose the Instance Type as Free/Hobby. All other details are default.
-7. Click on Create Web Service. Your app will undergo automatic build and deployment. Monitor the logs to view the progress or error messages. The entire process of Build+Deploy might take several minutes.
-8. After successful deployment, you can access your backend using the generated unique URL (visible on top left under the name of your web service).
-9. This unique URL will remain unchanged as long as your web service is deployed on Render. You can now integrate it in Budibase to make API calls to your custom endpoints.
 
 ## Project Management
 > 🚧: Include all the participants and briefly describe each of their **individual** contribution and/or roles. Screenshots/descriptions of your Kanban board or similar project management tools are welcome.
