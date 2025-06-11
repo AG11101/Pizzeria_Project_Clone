@@ -124,7 +124,7 @@ This service provides full CRUD operations for `Player` objects, including logic
 
 - **POST** `/api/players`
   -> Adds a new player to the system.  
-  -> Validates inpnut and links the player to a team.
+  -> Validates inpnut.
 
 - **PUT** `/api/players/{id}`
   -> Updates an existing player.
@@ -146,6 +146,10 @@ if (player.getGoals() != 0) {
 `
 ## Implementation
 > 🚧: Briefly describe your technology stack, which apps were used and for what.
+
+Frontend: Built with Budibase, used to create the user interface and manage actions via no-code components.
+
+Backend: Implemented using Github and Spring Boot (Java), exposing RESTful endpoints to handle all application logic.
 
 The application is structured following a layered architecture: 
 
