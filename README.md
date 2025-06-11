@@ -29,13 +29,12 @@ Our main goal with this web application is to display all the relevant stats of 
 which are needed for teams to prepare for their upcoming games. The application offers filtered and ranked views of player and team performance, with full data editing capabilities for administrators.
 
 ### User Stories
-- As a user, I want to view the player stats.
-- As a user I want to see the players ranked by league.
-- As a user, I want to see the teams.
-- As a user, I want to be able to filter the data.
+- As a user, I want to view the player stats and see how they are ranked against eachother.
+- As a user, I want to see the teams and see how they are ranked against eachother.
+- As a user, I want to be able to filter and sort the data.
 - As an Admin, I want to edit and manage the various data.
 - As an Admin, I want the website layout to be structured and easy to follow.
-- As an Admin I want the website to be accessible by various devices and ensure compatibility.
+- As an Admin, I want the website to be mainly accessible through desktop.
 
 ### Use Case
 
@@ -60,7 +59,7 @@ Our frontend is designed with usability and clarity in mind. We follow a minimal
 
 - Dark, readable typography
 - Button-based navigation
-- responsive table components
+- Responsive table components
 - Input fields for filtering and search
 
 The layout is consistent across screens and follows a clear hierarchy for users and admins.
@@ -76,7 +75,7 @@ Each wireframe outlines the major UI elements such as filters, search bar, data 
 
 ### Prototype
 
-A geral prototype was never really made and documented because in the view of the developers the created wireframe gave enough of a vision how the frontend should also look like. Still these points were discussed and written down as attributes the frontend should definitely have:
+A general prototype was never really made and documented because in the view of the developers the created wireframe gave enough of a vision how the frontend should also look like. Still these points were discussed and written down as attributes the frontend should definitely have:
 
 - Being able to navigate between home, player, league and login screen
 - Displaying and sorting data in tables
@@ -91,21 +90,11 @@ We modeled the core entities based on a real-worlds floorball league structure. 
 
 ![Domain Model](./Domain%20Design.png)
 
-### Entities 
+### Development Modifications
 
-- Player: hast attributes like name, last name, goals, assists and is linked to one team
-- Team: contains a list of players and is linked to a league
-- League: includes multiple teams and defines the league structure
-- Ranking: links teams and leagues with ranking data such as total points and position
-
-The relationships are: 
-- One **Team** to Many **Players**
-- One **League** to Many **Teams**
-- One **Team** to Many **Rankings**
-- One **League** to Many **Rankings**
+During the development process, we realized that the ranking entity was unnecessary for supporting the logic of our web service on both the backend and frontend. This is because Budibase already allows us to sort data based on the total points of a player or team, effectively generating the rankings automatically.
 
 ### Business Logic 
-> 🚧: Describe the business logic for **at least one business service** in detail. If available, show the expected path and HTPP method. The remaining documentation of APIs shall be made available in the swagger endpoint. The default Swagger UI page is available at /swagger-ui.html.
 
 We implemented the business logic in the `ch.fhnw.pizza.business.service` package. Each service class handels the core application logic for its respective entitity.
 
@@ -145,7 +134,6 @@ if (player.getGoals() != 0) {
 }
 `
 ## Implementation
-> 🚧: Briefly describe your technology stack, which apps were used and for what.
 
 Frontend: Built with Budibase, used to create the user interface and manage actions via no-code components.
 
@@ -156,18 +144,40 @@ The application is structured following a layered architecture:
 - **Controller Layer**: Exposes REST endpoints for PLayers, Teams, Leagues and Rankings.
 - **Service Layer**: Handles business logic, input validation and entity updates.
 - **Repository Layer**: Connects to the database using Spring Data JPA.
+- **Security Layer**: Allows basic authentication of the user.
 
 This separation makes the code modular, testable and easier to maintain.
 
 ### Backend Technology
-> 🚧: It is suggested to clone this repository, but you are free to start from fresh with a Spring Initializr. If so, describe if there are any changes to the PizzaRP e.g., different dependencies, versions & etc... Please, also describe how your database is set up. If you want a persistent or in-memory H2 database check [link](https://github.com/FHNW-INT/Pizzeria_Reference_Project/blob/main/pizza/src/main/resources/application.properties). If you have placeholder data to initialize at the app, you may use a variation of the method **initPlaceholderData()** available at [link](https://github.com/FHNW-INT/Pizzeria_Reference_Project/blob/main/pizza/src/main/java/ch/fhnw/pizza/PizzaApplication.java).
 
 The backend is built using **Java 17** and **Spring Boot**, initialized via [Spring Inititializr](https://start.spring.io/). The following key dependencies are used: 
-
-- **Spring Web**: to create RESTful web services.
-- **Spring Data JPA**: For easy data access using repositories.
-- **H2 Database**: in-memory development database for fast testing.
-- **Swagger/OpenAI**: to automatically generate and expose API documentation.
+ 
+- **`spring-boot-starter-actuator`**  
+  Provides production-ready features such as application metrics, health checks, and monitoring.
+ 
+- **`spring-boot-starter-data-jpa`**  
+  Enables integration with relational databases using Spring Data JPA.
+ 
+- **`spring-boot-starter-web`**  
+  Facilitates the development of web applications, including RESTful APIs using Spring MVC.
+ 
+- **`jaxb-runtime`** *(scope: provided)*  
+  Supplies the JAXB runtime for XML marshalling and unmarshalling, typically used for legacy support.
+ 
+- **`h2`** *(scope: runtime)*  
+  Lightweight in-memory database ideal for development and testing environments.
+ 
+- **`spring-boot-starter-test`** *(scope: test)*  
+  Bundles testing libraries such as JUnit, Mockito, and Spring Test for unit and integration testing.
+ 
+- **`spring-boot-starter-validation`**  
+  Enables Bean Validation using Hibernate Validator for enforcing constraints on application data.
+ 
+- **`springdoc-openapi-starter-webmvc-ui`**  
+  Automatically generates OpenAPI 3.0 (Swagger) documentation for Spring-based REST APIs.
+ 
+- **`spring-boot-starter-security`**  
+  Provides comprehensive authentication and authorization support for securing web applications.
 
 Then, the following further dependencies have been added to the project `pom.xml`:
 
@@ -264,32 +274,42 @@ The frontend was created using Budibase. It follows a modular structure:
   - `DELETE /api/players/{{id}}`
   - `PUT /api/players/{{id}}`
 
+  $ Format {{id}}: applies to Budibase
+  $ Format {id}: applies to Swagger
+
 
 ## Execution
-> 🚧: Please describe how to execute your app and what configurations must be changed to run it. 
 
 To run the full-stack application, follow these steps:
 
-#### Backend Setup
+#### Backend Setup and Frontend (Budibase) Setup
 
 1. **Clone the Repository**  
-   Clone your GitHub project repository that contains the Spring Boot application.
+   Clone the GitHub project repository that contains the Spring Boot application.
 
 2. **Start Codespace / IDE**  
-   Open the project in your IDE (e.g., IntelliJ or VS Code). Alternatively, start a GitHub Codespace.
+   Start a GitHub Codespace.
 
 3. **Run the Application**  
-   Execute the `main()` method in `FloorballStatisticsApplication.java`.  
+   Execute the `PizzaApplication.java` method in `Pizzeria_Project_Clone`.  
    The backend will start at: `http://localhost:8080/`
 
-4. **Set Public Port (if using Codespaces)**  
+4. Open Budibase
+
+5. Start a new App from scratch
+
+6. Under Settings import the following document: [text](db.txt)
+
+7. **Set Public Port (if using Codespaces)**  
    - Expose port 8080 publicly so the Budibase frontend can fetch data.
    - In GitHub Codespaces: Click **Port 8080 > Make Public**
 
-#### Frontend (Budibase) Setup
+8. **Change API-Endpoints in Budibase (including the URL according to the running codespace)**
+    - To visualize data from the application in Budibase, the URLs configured in Budibase must be updated to match the URL of the active Codespace instance. Each newly generated Codespace has a unique name, and when the application is run on a specific port (e.g., 8080), the corresponding page is accessible at a URL structured like https://<codespace-name>-8080.app.github.dev.
 
-Link to budibase App: https://inttech.budibase.app/app/brugg_4_floorball_statistics#/home
+    - This means that the API endpoints used in Budibase must be adjusted accordingly. The relevant URL must be updated for each CRUD operation defined within Budibase to ensure proper integration with the backend service.
 
+9. **Publish and exectue App in Budibase**
 
 ## Project Management
 
@@ -306,4 +326,3 @@ Link to budibase App: https://inttech.budibase.app/app/brugg_4_floorball_statist
 5. **Data and API Implementation**: Implementation of data access and business logic layers, and API.
 6. **Security and Frontend Implementation**: Integration of security framework and frontend realisation.
 7. (optional) **Deployment**: Deployment of Web application on cloud infrastructure.
-
